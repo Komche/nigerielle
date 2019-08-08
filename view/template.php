@@ -27,6 +27,12 @@
                      <li><a href="#">Partenaires</a></li>
                      <li><a href="#">Galerie</a></li>
                      <li><a href="#">Contact</a></li>
+                     <li>
+                    <div class="search">
+                        <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
+                        <button type="submit" class="btn btn-primary btn-sm">Recherche</button>
+                    </div>   
+                     </li>
                   </ul>
                </div>
             </nav>
