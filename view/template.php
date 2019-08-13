@@ -17,7 +17,7 @@
                   <i class="fa fa-bars fa-2x"></i>
                </div>
                <div class="logo">
-                  <img src="public/img/nigerielle1.jpg" width="140px" height="75px" alt="logo nigerielle">
+                  <img src="public/img/nigerielle1.png" width="140px" height="75px" alt="logo nigerielle">
                </div>
                <div class="menu">
                   <ul>
@@ -30,7 +30,7 @@
                      <li>
                         <div class="search">
                             <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
-                            <button type="submit" class="btn btn-primary btn-sm">Recherche</button>
+                            <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-search"></i></button>
                         </div>   
                      </li>
                   </ul>
