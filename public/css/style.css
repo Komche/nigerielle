@@ -50,7 +50,7 @@ nav ul {
     padding: 0;
     text-align: right;
     margin: 0;
-    padding-right: 40px;
+    padding-right: 5px;
     transition: 1s;
 }
 
@@ -170,3 +170,4 @@ nav ul li a {
     }
 
 }
+
