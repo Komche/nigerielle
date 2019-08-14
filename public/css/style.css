@@ -39,6 +39,7 @@ nav {
     position: fixed;
     width: 100%;
     line-height: 60px;
+    z-index: 1000;
 }
 
 nav ul {
@@ -199,7 +200,7 @@ nav ul li a {
   figure img{width:300px;}
   
   #blogCarousel {
-    padding-bottom: 100px;
+    padding-bottom: 30px;
   }
   
   .blog .carousel-indicators {
@@ -211,6 +212,12 @@ nav ul li a {
   
   /* The colour of the indicators */
   
+  .arriere{
+    z-index: -1000;
+  }
+  .voir-plus {
+    position: relative;
+  }
   .blog .carousel-indicators li {
     background: #708198;
     border-radius: 50%;
@@ -233,7 +240,6 @@ nav ul li a {
   .item-box-blog {
     border: 1px solid #dadada;
     text-align: center;
-    z-index: 4;
     padding: 20px;
   }
   
@@ -248,7 +254,6 @@ nav ul li a {
   
   .item-box-blog-date {
     position: absolute;
-    z-index: 5;
     padding: 4px 20px;
     top: -20px;
     right: 8px;
