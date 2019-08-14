@@ -170,4 +170,13 @@ nav ul li a {
     }
 
 }
-
+.bg{
+    background: #741b47;
+    border: 3px solid #ff00ff;
+}
+.bg-border{
+    border: 3px solid #ff00ff;
+}
+.acc{
+    background: #ff00ff;
+}
