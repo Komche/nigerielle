@@ -50,7 +50,7 @@ nav ul {
     padding: 0;
     text-align: right;
     margin: 0;
-    padding-right: 40px;
+    padding-right: 5px;
     transition: 1s;
 }
 
@@ -169,4 +169,14 @@ nav ul li a {
           display: block;
     }
 
+}
+.bg{
+    background: #741b47;
+    border: 3px solid #ff00ff;
+}
+.bg-border{
+    border: 3px solid #ff00ff;
+}
+.acc{
+    background: #ff00ff;
 }
