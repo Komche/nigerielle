@@ -45,19 +45,19 @@
       <h2>Domaine/Activités</h2>
       <div class="card-deck">
         <div class="card bg">
-         <a href="#"><i class="fa fa-ambulance fa-5x" aria-hidden="true"></i></a>
+         <a href="#"><i class="fa fa-ambulance fa-5x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Santé</h5>
           </div>
         </div>
         <div class="card bg">
-           <a href="#"><i class="fa fa-plug fa-5x" aria-hidden="true"></i></a>
+           <a href="#"><i class="fa fa-plug fa-5x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Environnement</h5>
             </div>
         </div>
         <div class="card bg">
-           <a href="#"><i class="fa fa-heartbeat fa-5x" aria-hidden="true"></i></a>
+           <a href="#"><i class="fa fa-heartbeat fa-5x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Hygiene</h5>
             </div>
@@ -66,19 +66,19 @@
       <br>
       <div class="card-deck">
         <div class="card bg">
-           <a href="#"><i class="fa fa-leaf fa-4x" aria-hidden="true"></i></a>
+           <a href="#"><i class="fa fa-leaf fa-4x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Transformation</h5>
             </div>
         </div>
         <div class="card bg">
-           <a href="#"><i class="fa fa-recycle fa-5x" aria-hidden="true"></i></a>
+           <a href="#"><i class="fa fa-recycle fa-5x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Recyclage</h5>
             </div>
         </div>
         <div class="card bg">
-           <a href="#"><i class="fa fa-life-ring fa-5x" aria-hidden="true"></i></a>
+           <a href="#"><i class="fa fa-life-ring fa-5x text-success" aria-hidden="true"></i></a>
           <div class="card-body">
             <h5 class="card-title">Energie</h5>
             </div>
