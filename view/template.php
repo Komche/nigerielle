@@ -200,16 +200,12 @@
                   </div>
                 </div>
               </div>
-					<button type="button" name="button" class="btn login_btn voir-plus">Savoir plus</button>
+<a href="#"><button type="button" name="button" class="btn login_btn voir-plus" style="height: 50px;">Savoir plus</button></a>
         </div>
         
 </div>
 <div><br>
-<h1>Partenaires</h1><br>
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+<h1 class="text-center">Partenaires</h1><br>
 
 <div class="container">
   <div class="row">
@@ -260,71 +256,7 @@
                          <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/p5.jpg" width="100%" height="90%">
                     </div>
                 </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                      <img src="public\img\pa1 width=">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
+            
             </div>
             <button class="btn btn-primary leftLst"><</button>
             <button class="btn btn-primary rightLst">></button>
@@ -336,7 +268,7 @@
 
 
       <div>
-       <h2>GALERIE PHOTOS</h2><br>
+       <h2 class="text-center">GALERIE PHOTOS</h2><br>
 
 
                <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -421,46 +353,7 @@
                 
 
        <br>         
-      <h1> Cartes <h1><br>
-   </h3>
-   <div class="row">
-      <div class="col-md-4">
-         <div class="card">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="float-right">Read more <i class="fas fa-angle-double-right"></i></a>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4">
-         <div class="card">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="btn btn-sm btn-info float-right">Read more <i class="fas fa-angle-double-right"></i></a>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4">
-         <div class="card bg-light">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="btn btn-sm btn-info float-right">Read more <i class="fas fa-angle-double-right"></i></a>
-            </div>
-         </div>
-      </div>
-   </div>
-   <hr>
-   <a href="http://www.jquery2dotnet.com/" class="mx-auto pb-3 text-center">
-   <img alt="jQuery 2 DotNet" class="rounded mx-auto d-block" height="52px;" src="http://1.bp.blogspot.com/-z27K-NYYSi4/Vsg9Mdl1A_I/AAAAAAAAEbo/SbDbMENIiVQ/s1600-r/jQuery2DotNet.png" style="display: block" width="208px; ">
-   </a>
-</div>
-       </div>
+      <h1 class="text-center"> Cartes <h1><br>
 
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
