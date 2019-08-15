@@ -217,13 +217,13 @@
             <div class="MultiCarousel-inner">
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/pn1.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Nova.jpg" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
                           
-                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/par2.jpg" width="100%" height="90%">
+                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.png" width="100%" height="90%">
 
                         
                        
@@ -231,100 +231,37 @@
                 </div>
                 <div class="item">
                     <div class="pad15">
-                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/par3.jpg" width="100%" height="90%">
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/capture.png" width="100%" height="90%">
                        
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/pa5.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.png" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/par4.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haraka.png" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/femme.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/FB.jpg" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/pn3.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/chafi.jpg" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/p5.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.png" width="100%" height="90%">
                     </div>
                 </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                      <img src="public\img\pa1 width=">
-                        <p class="lead">Multi Item Carousel</p>
-                        <p>₹ 1</p>
-                        <p>₹ 6000</p>
-                        <p>50% off</p>
-                    </div>
-                </div>
+
+               
             </div>
             <button class="btn btn-primary leftLst"><</button>
             <button class="btn btn-primary rightLst">></button>
@@ -450,7 +387,7 @@
             <div class="card-body">
                <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="btn btn-sm btn-info float-right">Read more <i class="fas fa-angle-double-right"></i></a>
+              </i></a>
             </div>
          </div>
       </div>
@@ -459,7 +396,7 @@
    <a href="http://www.jquery2dotnet.com/" class="mx-auto pb-3 text-center">
    <img alt="jQuery 2 DotNet" class="rounded mx-auto d-block" height="52px;" src="http://1.bp.blogspot.com/-z27K-NYYSi4/Vsg9Mdl1A_I/AAAAAAAAEbo/SbDbMENIiVQ/s1600-r/jQuery2DotNet.png" style="display: block" width="208px; ">
    </a>
-</div>
+    </div>
        </div>
 
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
