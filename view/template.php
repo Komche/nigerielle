@@ -223,7 +223,7 @@
                 <div class="item">
                     <div class="pad15">
                           
-                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.png" width="100%" height="90%">
+                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.PNG" width="100%" height="90%">
 
                         
                        
@@ -231,18 +231,18 @@
                 </div>
                 <div class="item">
                     <div class="pad15">
-                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/capture.png" width="100%" height="90%">
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Capture.PNG" width="100%" height="90%">
                        
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.png" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.PNG" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haraka.png" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/HARAKA.PNG" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
@@ -252,12 +252,12 @@
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/chafi.jpg" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Chafi.jpg" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.png" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.PNG" width="100%" height="90%">
                     </div>
                 </div>
                     
