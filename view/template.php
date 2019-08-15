@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Responsive Sticky Navbar</title>
+      <title>Nigérielles</title>
       <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="public/css/style.css">
@@ -350,10 +350,69 @@
         <div id="caption">hola</div>
         </div>
     </div>
-                
+    <h1 class="text-center"> CARTE & CONTACT <h1>
+<div class="row" id="contatti">
+<div class="container-fluid mt-5" >
+    <div class="row" style="height:550px;">
+      <div class="col-md-6 maps" >
+         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11880.492291371422!2d12.4922309!3d41.8902102!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x28f1c82e908503c4!2sColosseo!5e0!3m2!1sit!2sit!4v1524815927977" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+      <div class="col-md-6">
+        <h2 class="text-uppercase mt-3 font-weight-bold text-white">CONTACT</h2>
+        <form action="">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="form-group">
+                <input type="text" class="form-control mt-2" placeholder="Nom" required>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="form-group">
+                <input type="text" class="form-control mt-2" placeholder="Prénom" required>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="form-group">
+                <input type="email" class="form-control mt-2" placeholder="E-mail" required>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="form-group">
+                <input type="number" class="form-control mt-2" placeholder="Tél" required>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="form-group">
+                <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message" rows="3" required></textarea>
+              </div>
+            </div>
+            <div class="col-12">
+            <div class="form-group">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
+                <label class="form-check-label" for="invalidCheck2">
+                  Acceptez
+                </label>
+              </div>
+            </div>
+            </div>
+            <div class="col-6">
+              <button class="btn btn-light" type="submit" style="height: 50px;">envoyer</button><br>
+            </div>
+          </div>
+        </form>
+        <div class="text-white">
+        <h4 class="text-uppercase mt-4 font-weight-bold">Adresse</h4>
+            <h6>
+        <i class="fas fa-phone mt-3"></i> <a href="tel:+">(+227) 20145782</a><br>
+        <i class="fa fa-envelope mt-3"></i> <a href="">nigerielles@gmail.com</a>
+        <i class="fas fa-globe mt-3"></i> Niamey / Niger</h6>
+        </div>
+      </div>
 
-       <br>         
-      <h1 class="text-center"> Cartes <h1><br>
+    </div>
+</div>
+</div>
 
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
