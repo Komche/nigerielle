@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Responsive Sticky Navbar</title>
+      <title>Accuiel</title>
       <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="public/css/style.css">
@@ -278,7 +278,7 @@
 
 
       <div>
-       <h2>GALERIE PHOTOS</h2><br>
+       <h2 class="text-center">GALERIE PHOTOS</h2><br>
 
 
                <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -363,47 +363,75 @@
                 
 
        <br>         
-      <h1> Cartes <h1><br>
+      <h1 class="text-center"> Cartes <h1><br>
    </h3>
    <div class="row">
-      <div class="col-md-4">
-         <div class="card">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="float-right">Read more <i class="fas fa-angle-double-right"></i></a>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4">
-         <div class="card">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-               <a href="#" class="btn btn-sm btn-info float-right">Read more <i class="fas fa-angle-double-right"></i></a>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4">
-         <div class="card bg-light">
-            <img class="card-img-top" src="//placeimg.com/280/180/tech" alt="Card image cap">
-            <div class="card-body">
-               <h5 class="card-title border-bottom pb-3">Card title <a href="#" class="float-right btn btn-sm btn-info d-inline-flex share"><i class="fas fa-share-alt"></i></a></h5>
-               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </i></a>
-            </div>
-         </div>
+      <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.750620308406!2d2.0863344140915814!3d13.550883890477701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f940569cead%3A0x91f5f8ebd4598cf3!2sNOVATECH!5e0!3m2!1sfr!2sne!4v1565891462157!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
    </div>
    <hr>
-   <a href="http://www.jquery2dotnet.com/" class="mx-auto pb-3 text-center">
-   <img alt="jQuery 2 DotNet" class="rounded mx-auto d-block" height="52px;" src="http://1.bp.blogspot.com/-z27K-NYYSi4/Vsg9Mdl1A_I/AAAAAAAAEbo/SbDbMENIiVQ/s1600-r/jQuery2DotNet.png" style="display: block" width="208px; ">
+   
    </a>
     </div>
        </div>
-
+<!-- Footer -->
+<section id="footer">
+		<div class="container">
+			<div class="row text-center text-xs-center text-sm-left text-md-left">
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<h5>Liens</h5>
+					<ul class="list-unstyled quick-links">
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Accueil</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>A propos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Aide</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Services</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<h5>Liens</h5>
+					<ul class="list-unstyled quick-links">
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Accueil</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>A propos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Aide</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Services</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<h5>Liens</h5>
+					<ul class="list-unstyled quick-links">
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Accueil</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>A propos</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Aide</a></li>
+						<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Services</a></li>
+						<li><a href="https://wwwe.sunlimetech.com" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
+					<ul class="list-unstyled list-inline social text-center">
+						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-facebook"></i></a></li>
+						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-twitter"></i></a></li>
+						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-instagram"></i></a></li>
+						<li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-google-plus"></i></a></li>
+						<li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-envelope"></i></a></li>
+					</ul>
+				</div>
+				</hr>
+			</div>	
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+					<p><u><a href="https://www.nationaltransaction.com/">Lorem ipsum dolor sit amet</a></u> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tincidunt nunc.</p>
+					<p class="h6">&copy Tout droit reservé.<a class="text-green ml-2" href="http://www.nigerielle.ne" target="_blank">Nigerielle</a></p>
+				</div>
+				</hr>
+			</div>	
+		</div>
+	</section>
+	<!-- ./Footer -->
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
