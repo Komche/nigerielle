@@ -264,7 +264,7 @@
                     
                 <div class="item">
                     <div class="pad15">
-                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/UTA.png" width="100%" height="90%">  
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/UTA.PNG" width="100%" height="90%">  
                     </div>
                 </div>
                
