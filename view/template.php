@@ -23,6 +23,7 @@
                <div class="menu">
                   <ul>
                      <li class="acc"><a href="#" >Accueil</a></li>  
+                     <li><a href="presentation.php"><span class="glyphicon glyphicon-home"></span>&nbsp;Présentation</a></li>
                      <li><a href="#">Activités</a></li>
                      <li><a href="#">Produits et Services</a></li>
                      <li><a href="#">Partenaires</a></li>
