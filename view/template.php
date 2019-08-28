@@ -97,14 +97,13 @@
      </div>
   </div>
 </div>
-   </div>
-              
+   </div>          
    </div>
 </div>
         <div style="margin-bottom: 30px" class="container arriere">
           <div class="row blog">
             <div class="col-md-12">
-              <h2 class="text-center">Produit et service</h2>
+              <h2 class="text-center">Poles d'activités</h2>
               <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
               <!--  <ol class="carousel-indicators">
                   <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
@@ -117,8 +116,7 @@
                       <div class="col-md-4" >
                         <div class="item-box-blog">
                           <div class="item-box-blog-image">
-                            <!--Date-->
-                            
+                            <!--Date--> 
                             <!--Image-->
                             <figure><img alt="" src="public/img/imag.jpg"></figure>
                           </div>
@@ -126,7 +124,7 @@
                             <!--Heading-->
                             <div class="item-box-blog-heading">
                               <a href="#" tabindex="0">
-                                <h5>Produit</h5>
+                                <h5>Business club</h5>
                               </a>
                             </div>
                             <!--Data-->
@@ -135,7 +133,32 @@
                             </div>
                             <!--Text-->
                             <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                              <p>L'organisation est composée des femmes d'affaires et femmes leaders regroupées en business club. Ces femmes se retrouvent chaque mois autour de divers activitées telles que: les dejeuners, rendez-vous d'affaires,les dons aux orhpelins ou femmes dévaloriséés, activitées de developpement communautaire. Elle  s'echangent, s'entraine et forment entre elles au sein duquel chaque femme entrepreneure et sollicitée</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-4" >
+                        <div class="item-box-blog">
+                          <div class="item-box-blog-image">
+                            <!--Date--> 
+                            <!--Image-->
+                            <figure><img alt="" src="public/img/imag.jpg"></figure>
+                          </div>
+                          <div class="item-box-blog-body">
+                            <!--Heading-->
+                            <div class="item-box-blog-heading">
+                              <a href="#" tabindex="0">
+                                <h5>Smart haouse: pépinière pour les femmes entrepreneures</h5>
+                              </a>
+                            </div>
+                            <!--Data-->
+                            <div class="item-box-blog-data" style="padding: px 15px;">
+                              
+                            </div>
+                            <!--Text-->
+                            <div class="item-box-blog-text">
+                              <p>C'est le projet de la mise en place d'un centre incubateur pour femmes entrepreneures courant 2019.</p>
                             </div>
                           </div>
                         </div>
@@ -152,7 +175,7 @@
                             <!--Heading-->
                             <div class="item-box-blog-heading">
                               <a href="#" tabindex="0">
-                                <h5>Produit</h5>
+                                <h5>Nigerielles Events</h5>
                               </a>
                             </div>
                             <!--Data-->
@@ -161,7 +184,7 @@
                             </div>
                             <!--Text-->
                             <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                              <p>C'est un pole événementiel de l'organisation.Elles organisent des séries d'événements d'envergure nationale et sous-regionale tout au long de l'année pour créer un cadre d'échange et de partenariat entre femmes entrepreneurs et potentiels.>
                             </div>
                             
                             <!--Read More Button-->
@@ -178,31 +201,27 @@
                             <!--Heading-->
                             <div class="item-box-blog-heading">
                               <a href="#" tabindex="0">
-                                <h5>Produit</h5>
+                                <h5>Le Magazine</h5>
                               </a>
                             </div>
                             <!--Data-->
                             <div class="item-box-blog-data" style="padding: px 15px;">
-                              
                             </div>
                             <!--Text-->
                             <div class="item-box-blog-text">
-                              <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
-                            </div>
-                        
+                              <p>Un Magazin d'éducation entrepreneuriale est concu en format papier et electronique pour edifié la population sur les différents acteurs de l'entrepreneuriat féminin mais aussi le déroulement du salon.</p>
+                            
                             <!--Read More Button-->
                           </div>
                         </div>
                       </div>
                     </div>
-                    <!--.row-->
-                   
+                    <!--.row--> 
                   </div>
                 </div>
               </div>
 					<button type="button" name="button" class="btn login_btn voir-plus">Savoir plus</button>
-        </div>
-        
+        </div>   
 </div>
 <div><br>
 <h1>Partenaires</h1><br>
@@ -223,7 +242,7 @@
                 <div class="item">
                     <div class="pad15">
                           
-                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.png" width="100%" height="90%">
+                      <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/fifa.jpeg" width="100%" height="90%">
 
                         
                        
@@ -231,56 +250,40 @@
                 </div>
                 <div class="item">
                     <div class="pad15">
-                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/capture.png" width="100%" height="90%">
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haut.jpg" width="100%" height="90%">
                        
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.png" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/seen.jpeg" width="100%" height="90%">
                     </div>
                 </div>
                 <div class="item">
                     <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haraka.png" width="100%" height="90%">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/FB.jpg" width="100%" height="90%">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/chafi.jpg" width="100%" height="90%">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="pad15">
-                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.png" width="100%" height="90%">
+                         <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%">
                     </div>
                 </div>
                     
                 <div class="item">
                     <div class="pad15">
-                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/UTA.png" width="100%" height="90%">  
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/orano.png" width="100%" height="90%">  
                     </div>
                 </div>
-               
+                <div class="item">
+                    <div class="pad15">
+                       <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">  
+                    </div>
+                </div>  
             </div>
             <button class="btn btn-primary leftLst"><</button>
             <button class="btn btn-primary rightLst">></button>
         </div>
   </div>
- 
 </div>
 </div><br>
-
-
       <div>
        <h2 class="text-center">GALERIE PHOTOS</h2><br>
-
-
                <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
