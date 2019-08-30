@@ -1,2 +1,2 @@
 <?php
-require_once('view/template.php');
+require_once('view/homeView.php');
