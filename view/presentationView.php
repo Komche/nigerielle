@@ -6,42 +6,47 @@ ob_start();
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
         <div class="col-md-8 text-center">
-            <h2>Activités</h2>
+            <h2>Domaine/Activités</h2>
             <div class="card-deck">
                 <div class="card bg">
-                    <a href="index.php?action=activite&activite=training"><i class="fa fa-child fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-ambulance fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
-                        <h5 class="card-title">Training</h5>
+                        <h5 class="card-title">Santé</h5>
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="index.php?action=activite&activite=business"><i class="fa fa-line-chart fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-plug fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
-                        <h5 class="card-title">Business Club</h5>
+                        <h5 class="card-title">Environnement</h5>
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-tags fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-heartbeat fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
-                        <h5 class="card-title">Events</h5>
+                        <h5 class="card-title">Hygiene</h5>
                     </div>
                 </div>
             </div>
             <br>
             <div class="card-deck">
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-shopping-cart fa-4x text-success" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-leaf fa-4x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
-                        <h5 class="card-title">Le Magazine</h5>
+                        <h5 class="card-title">Transformation</h5>
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-recycle fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
-                        <h5 class="card-title">La Smart House </h5>
+                        <h5 class="card-title">Recyclage</h5>
                     </div>
                 </div>
-               
+                <div class="card bg">
+                    <a href="#"><i class="fa fa-life-ring fa-5x text-success" aria-hidden="true"></i></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Energie</h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="col-md-4">
@@ -50,7 +55,7 @@ ob_start();
                     <img class="card-img-top" src="public/img/femme.jpg" alt="Image directrice">
                     <div class="card-body">
                         <h5 class="card-title text-center"><b>Promotrice de Nigerielles</b></h5>
-                        <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                 </div>
             </div>
