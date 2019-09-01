@@ -21,7 +21,7 @@ ob_start();
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-tags fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=event"><i class="fa fa-tags fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">Events</h5>
                     </div>
@@ -30,13 +30,13 @@ ob_start();
             <br>
             <div class="card-deck">
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-shopping-cart fa-4x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=magazin"><i class="fa fa-shopping-cart fa-4x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">Le Magazine</h5>
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=maison"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">La Smart House </h5>
                     </div>
