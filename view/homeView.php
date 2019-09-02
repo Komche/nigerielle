@@ -6,7 +6,6 @@ ob_start();
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
         <div class="col-md-8 text-center">
-            <h2>Activités</h2>
             <div class="card-deck">
                 <div class="card bg">
                     <a href="index.php?action=activite&activite=training"><i class="fa fa-child fa-5x text-success" aria-hidden="true"></i></a>

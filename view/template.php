@@ -34,7 +34,7 @@
             <li>
               <div class="search">
                 <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
-                <button type="submit" class="btn btn-primary btn-sm"><i class="fa fa-search"></i></button>
+                <button type="submit" class="btn btn-success btn-sm"><i class="fa fa-search"></i></button>
               </div>
             </li>
           </ul>

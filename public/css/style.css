@@ -35,6 +35,7 @@ header {
   letter-spacing: 2px;
 }
 
+
 nav {
   position: fixed;
   width: 100%;
@@ -45,7 +46,7 @@ nav {
 nav ul {
   line-height: 60px;
   list-style: none;
-  background: rgb(0, 0, 0, 0);
+  background: #741b47;
   overflow: hidden;
   color: #fff;
   padding: 0;
@@ -67,13 +68,27 @@ nav.black ul a {
 nav ul li {
   display: inline-block;
   padding: 16px 20px;
-  ;
 }
+
+
 
 nav ul li a {
   text-decoration: none;
-  color: rgb(39, 39, 39);
+  color: white;
   font-size: 16px;
+}
+
+.acc a {
+  color: #41cb52;
+}
+
+nav ul li a:hover {
+  color: #41cb52;
+  text-decoration: none;
+}
+
+nav.black .acc a {
+  color: #41cb52;
 }
 
 .menu-icon {
@@ -246,6 +261,9 @@ nav ul li a {
   nav.black ul a {
     color: #fff;
   }
+  nav.black .acc a {
+    color: #41cb52;
+  }
   .showing {
     max-height: 34em;
   }
@@ -267,10 +285,6 @@ nav ul li a {
 
 .bg-border {
   border: 3px solid #ff00ff;
-}
-
-.acc {
-  background: #ff00ff;
 }
 
 .cta-100 {
