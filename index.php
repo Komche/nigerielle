@@ -1,5 +1,6 @@
 <?php
 session_start();
+unset($_SESSION['activite']);
 if (isset($_GET['action'])) {
     extract($_GET);
     if ($action == 'presentation') {
