@@ -2,7 +2,7 @@
 $title = "Accueil";
 ob_start();
 ?>
-
+<div class="slideWiz" style="width: 100%; height: 650px;"></div>
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
         <div class="col-md-8 text-center">
@@ -40,7 +40,7 @@ ob_start();
                         <h5 class="card-title">La Smart House </h5>
                     </div>
                 </div>
-               
+
             </div>
         </div>
         <div class="col-md-4">
@@ -337,6 +337,6 @@ ob_start();
 </div>
 
 <?php
-    $content = ob_get_clean();
-    require('template.php');
+$content = ob_get_clean();
+require('template.php');
 ?>
