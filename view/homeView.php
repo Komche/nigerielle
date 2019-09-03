@@ -173,13 +173,13 @@ ob_start();
                     <div class="MultiCarousel-inner">
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Nova.jpg" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/seen.jpeg" width="100%" height="90%">
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
 
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%">
 
 
 
@@ -187,42 +187,20 @@ ob_start();
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Capture.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">
 
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/orano.png" width="100%" height="90%">
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/HARAKA.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haut.jpg" width="100%" height="90%">
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/FB.jpg" width="100%" height="90%">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Chafi.jpg" width="100%" height="90%">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.PNG" width="100%" height="90%">
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/UTA.PNG" width="100%" height="90%">
-                            </div>
-                        </div>
-
                     </div>
                     <button class="btn btn-primary leftLst">
                         <</button> <button class="btn btn-primary rightLst">>
