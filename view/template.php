@@ -29,7 +29,6 @@
             <li><a href="index.php?action=presentation">Présentation</a></li>
             <li><a href="index.php?action=activite">Activités</a></li>
             <li><a href="#">Produits et Services</a></li>
-            <li><a href="#">Partenaires</a></li>
             <li><a href="#">Galerie</a></li>
             <li><a href="#">Contact</a></li>
             <li>
