@@ -182,7 +182,7 @@ ob_start();
                     <div class="MultiCarousel-inner">
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Nova.jpg" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">
                             </div>
                         </div>
                         <div class="item">
