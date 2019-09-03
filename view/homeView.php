@@ -2,11 +2,10 @@
 $title = "Accueil";
 ob_start();
 ?>
-
+<div class="slideWiz" style="width: 100%; height: 650px;"></div>
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
         <div class="col-md-8 text-center">
-            <h2>Activités</h2>
             <div class="card-deck">
                 <div class="card bg">
                     <a href="index.php?action=activite&activite=training"><i class="fa fa-child fa-5x text-success" aria-hidden="true"></i></a>
@@ -21,7 +20,7 @@ ob_start();
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-tags fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=event"><i class="fa fa-tags fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">Events</h5>
                     </div>
@@ -30,18 +29,18 @@ ob_start();
             <br>
             <div class="card-deck">
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-shopping-cart fa-4x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=magazin"><i class="fa fa-shopping-cart fa-4x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">Le Magazine</h5>
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="#"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=maison"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">La Smart House </h5>
                     </div>
                 </div>
-               
+
             </div>
         </div>
         <div class="col-md-4">
@@ -338,6 +337,6 @@ ob_start();
 </div>
 
 <?php
-    $content = ob_get_clean();
-    require('template.php');
+$content = ob_get_clean();
+require('template.php');
 ?>
