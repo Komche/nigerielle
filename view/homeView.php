@@ -62,7 +62,7 @@ ob_start();
 <div style="margin-bottom: 30px" class="container arriere">
     <div class="row blog">
         <div class="col-md-12">
-            <h2 class="text-center">Produit et service</h2>
+            <h2 class="text-center">Actualité</h2>
             <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
                 <!--  <ol class="carousel-indicators">
                   <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
@@ -84,7 +84,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -110,7 +110,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -137,7 +137,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -159,12 +159,12 @@ ob_start();
                     </div>
                 </div>
             </div>
-            <button type="button" name="button" class="btn login_btn voir-plus">Savoir plus</button>
+            <button type="button" name="button" class="btn login_btn voir-plus">Plus d'actualité</button>
         </div>
 
     </div>
     <div><br>
-        <h1>Partenaires</h1><br>
+        <h1 class="text-center">Partenaires</h1>
         <!------ Include the above in your HEAD tag ---------->
 
         <div class="container">
@@ -213,7 +213,7 @@ ob_start();
 
 
     <div>
-        <h2 class="text-center">GALERIE PHOTOS</h2><br>
+        <h2 class="text-center">GALERIE PHOTOS</h2>
 
         <div id="gallery">
             <section>
@@ -290,7 +290,7 @@ ob_start();
 
 
         <br>
-        <h1 class="text-center"> Cartes <h1><br>
+        <h1 class="text-center"> Retrouvez-nous <h1><br>
                 </h3>
                 <div class="row">
                     <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
