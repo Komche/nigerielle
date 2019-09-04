@@ -2,11 +2,10 @@
 $title = "Accueil";
 ob_start();
 ?>
-
+<div class="slideWiz" style="width: 100%; height: 650px;"></div>
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
         <div class="col-md-8 text-center">
-            <h2>Activités</h2>
             <div class="card-deck">
                 <div class="card bg">
                     <a href="index.php?action=activite&activite=training"><i class="fa fa-child fa-5x text-success" aria-hidden="true"></i></a>
@@ -41,7 +40,7 @@ ob_start();
                         <h5 class="card-title">La Smart House </h5>
                     </div>
                 </div>
-               
+
             </div>
         </div>
         <div class="col-md-4">
@@ -49,7 +48,7 @@ ob_start();
                 <div class="card bg-border">
                     <img class="card-img-top" src="public/img/femme.jpg" alt="Image directrice">
                     <div class="card-body">
-                        <h5 class="card-title text-center"><b>Promotrice de Nigerielles</b></h5>
+                        <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
                         <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
                     </div>
                 </div>
@@ -63,7 +62,7 @@ ob_start();
 <div style="margin-bottom: 30px" class="container arriere">
     <div class="row blog">
         <div class="col-md-12">
-            <h2 class="text-center">Produit et service</h2>
+            <h2 class="text-center">Actualité</h2>
             <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
                 <!--  <ol class="carousel-indicators">
                   <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
@@ -85,7 +84,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -111,7 +110,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -138,7 +137,7 @@ ob_start();
                                         <!--Heading-->
                                         <div class="item-box-blog-heading">
                                             <a href="#" tabindex="0">
-                                                <h5>Produit</h5>
+                                                <h5>Actualité</h5>
                                             </a>
                                         </div>
                                         <!--Data-->
@@ -160,15 +159,12 @@ ob_start();
                     </div>
                 </div>
             </div>
-            <button type="button" name="button" class="btn login_btn voir-plus">Savoir plus</button>
+            <button type="button" name="button" class="btn login_btn voir-plus">Plus d'actualité</button>
         </div>
 
     </div>
     <div><br>
-        <h1>Partenaires</h1><br>
-        <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <h1 class="text-center">Partenaires</h1>
         <!------ Include the above in your HEAD tag ---------->
 
         <div class="container">
@@ -177,13 +173,13 @@ ob_start();
                     <div class="MultiCarousel-inner">
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Nova.jpg" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/seen.jpeg" width="100%" height="90%">
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
 
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/imani.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%">
 
 
 
@@ -191,42 +187,20 @@ ob_start();
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Capture.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">
 
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/3b.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/orano.png" width="100%" height="90%">
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/HARAKA.PNG" width="100%" height="90%">
+                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haut.jpg" width="100%" height="90%">
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/FB.jpg" width="100%" height="90%">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/Chafi.jpg" width="100%" height="90%">
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/faceb.PNG" width="100%" height="90%">
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/UTA.PNG" width="100%" height="90%">
-                            </div>
-                        </div>
-
                     </div>
                     <button class="btn btn-primary leftLst">
                         <</button> <button class="btn btn-primary rightLst">>
@@ -239,15 +213,7 @@ ob_start();
 
 
     <div>
-        <h2 class="text-center">GALERIE PHOTOS</h2><br>
-
-
-        <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <!------ Include the above in your HEAD tag ---------->
-
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <h2 class="text-center">GALERIE PHOTOS</h2>
 
         <div id="gallery">
             <section>
@@ -324,7 +290,7 @@ ob_start();
 
 
         <br>
-        <h1 class="text-center"> Cartes <h1><br>
+        <h1 class="text-center"> Retrouvez-nous <h1><br>
                 </h3>
                 <div class="row">
                     <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
@@ -338,6 +304,6 @@ ob_start();
 </div>
 
 <?php
-    $content = ob_get_clean();
-    require('template.php');
+$content = ob_get_clean();
+require('template.php');
 ?>
