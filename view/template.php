@@ -76,7 +76,7 @@
             </ul>
           </div>
           <div class="col-xs-12 col-sm-3 col-md-4">
-            <h5>Liens</h5>
+            <h5>Newsletter</h5>
 	<div class="row justify-content-center">
 		<div class="col-xs-12 pb-5">
 
@@ -116,7 +116,7 @@
                                         <div class="input-group-prepend">
                                             <div class="input-group-text"><i class="fa fa-comment text-success"></i></div>
                                         </div>
-                                        <textarea class="form-control" placeholder="Envianos tu Mensaje" required></textarea>
+                                        <textarea class="form-control" placeholder="Votre message" required></textarea>
                                     </div>
                                 </div>
 
