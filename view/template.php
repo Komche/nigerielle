@@ -22,16 +22,23 @@
           <i class="fa fa-bars fa-2x"></i>
         </div>
         <div class="logo">
-          <img src="public/img/nigerielle1.png" width="140px" height="75px" alt="logo nigerielle">
+          
         </div>
         <div class="menu">
-          <ul>
-            <li class="acc"><a href="index.php">Accueil</a></li>
-            <li><a href="index.php?action=presentation">Présentation</a></li>
-            <li><a href="index.php?action=activite">Activités</a></li>
-            <li><a href="#">Actualités</a></li>
-            <li><a href="#">Galerie</a></li>
-            <li><a href="#">Contact</a></li>
+          <ul class="navb">
+            <li class="acc"><a href="index.php"><img src="public/img/nigerielle1.png" width="140px" height="75px" alt="logo nigerielle"></a></li>
+            <li class="acc"><a class="animate" href="index.php">Accueil</a></li>
+            <li><a class="animate" href="#">Présentation</a>
+              <ul class ="sub">
+              <li><a class="animate" href="#">Vision</a></li> 
+                <li><a class="animate" href="#">Objectif</a></li>
+                <li><a class="animate" href="#">Valeur</a></li>
+                </ul>
+            </li>
+            <li><a class="animate" href="index.php?action=activite">Activités</a></li>
+            <li><a class="animate" href="#">Actualités</a></li>
+            <li><a class="animate" href="#">Galerie</a></li>
+            <li><a class="animate" href="#">Contact</a></li>
             <li>
               <div class="search">
                 <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
