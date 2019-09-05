@@ -144,10 +144,10 @@
           </div>
           </hr>
         </div>-->
-        <div class="row">
+        <div style="width: 100%" class="row">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
-            <p><u><a href="#">Lorem ipsum dolor sit amet</a></u> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tincidunt nunc.</p>
-            <p class="h6">&copy Tout droit reservé.<a class="text-green ml-2" href="http://www.nigerielle.ne" target="_blank">Nigerielle</a></p>
+            <p class="text-center">Développé par <u><a href="www.novatech.ne">NOVATECH</a></u> </p>
+            <p class="h6">&copy Tout droit reservé.<a class="text-green ml-2" href="http://www.nigerielle.ne" target="_blank">Nigerielles 2019</a></p>
           </div>
           </hr>
         </div>
