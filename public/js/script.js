@@ -201,8 +201,8 @@ $(document).ready(function () {
         ],
         file: [{
                 src: {
-                    main: "public/img/image1.jpg",
-                    cover: "public/img/femme.jpg"
+                    main: "public/img/p.JPG",
+                    cover: "public/img/sami.JPG"
                 },
                 title: 'Nigerielles',
                 desc: "C'est une organisation qui soutient et accompagne les femmes entrepreneur",
@@ -210,8 +210,8 @@ $(document).ready(function () {
             },
             {
                 src: {
-                    main: "public/img/femme.jpg",
-                    cover: "public/img/wedding.jpg"
+                    main: "public/img/sami.JPG",
+                    cover: "public/img/m.JPG"
                 },
                 title: 'Nigerielles',
                 desc: "En partenariat avec des institutions et des cabinets de formation de la place, Nigerielles s’engage à former ‘’autrement’’ les femmes entrepreneurs, les porteuses de projets ou leaders du Niger dans toutes les régions. ",
@@ -219,8 +219,8 @@ $(document).ready(function () {
             },
             {
                 src: {
-                    main: "public/img/wedding.jpg",
-                    cover: "public/img/training.jpg"
+                    main: "public/img/m.JPG",
+                    cover: "public/img/page.JPG"
                 },
                 title: 'Nigerielles',
                 desc: "Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir, regroupées en business club.",
@@ -229,13 +229,31 @@ $(document).ready(function () {
             },
             {
                 src: {
-                    main: "public/img/training.jpg",
-                    cover: "public/img/houses.jpg"
+                    main: "public/img/page.JPG",
+                    cover: "public/img/image.JPG"
                 },
                 title: 'Nigerielles',
                 desc: "Ces femmes se retrouvent chaque mois autour de diverses activités à savoir des déjeuners ou rendez-vous d’affaires, des activités diverses allant des dons aux orphelins ou femmes défavorisées, a des activités",
                 
-            }
+            },
+            {
+                src: {
+                    main: "public/img/image.JPG",
+                    cover: "public/img/fe.JPG"
+                },
+                title: 'Nigerielles',
+                desc: "Ces femmes se retrouvent chaque mois autour de diverses activités à savoir des déjeuners ou rendez-vous d’affaires, des activités diverses allant des dons aux orphelins ou femmes défavorisées, a des activités",
+                
+            },
+            {
+                src: {
+                    main: "public/img/fe.JPG",
+                    cover: "public/img/fer.JPG"
+                },
+                title: 'Nigerielles',
+                desc: "Ces femmes se retrouvent chaque mois autour de diverses activités à savoir des déjeuners ou rendez-vous d’affaires, des activités diverses allant des dons aux orphelins ou femmes défavorisées, a des activités",
+                
+            },
         ]
 
     });

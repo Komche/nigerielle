@@ -46,7 +46,7 @@ ob_start();
         <div class="col-md-4">
             <div class="card-deck">
                 <div class="card bg-border">
-                    <img class="card-img-top" src="public/img/femme.jpg" alt="Image directrice">
+                    <img class="card-img-top" src="public/img/me.JPG" alt="Image directrice">
                     <div class="card-body">
                         <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
                         <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
@@ -78,7 +78,7 @@ ob_start();
                                         <!--Date-->
 
                                         <!--Image-->
-                                        <figure><img alt="" src="public/img/imag.jpg"></figure>
+                                        <figure><img alt="" src="public/img/me.JPG"></figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
@@ -104,7 +104,7 @@ ob_start();
                                         <!--Date-->
 
                                         <!--Image-->
-                                        <figure> <img alt="" src="public/img/imag.jpg"> </figure>
+                                        <figure> <img alt="" src="public/img/pa.JPG"> </figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
@@ -131,7 +131,7 @@ ob_start();
                                     <div class="item-box-blog-image">
                                         <!--Date-->
                                         <!--Image-->
-                                        <figure> <img alt="" src="public/img/imag.jpg"> </figure>
+                                        <figure> <img alt="" src="public/img/fem.JPG"> </figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
