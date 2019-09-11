@@ -204,62 +204,37 @@ $(document).ready(function () {
                     main: "public/img/image1.jpg",
                     cover: "public/img/femme.jpg"
                 },
-                title: 'slideWiz Library - 1',
-                desc: "1: slideWiz is a JQuery based library created by a Nigerian Software " +
-                    "Engineer by the name 'Wisdom Emenike' who at the time of writing this library " +
-                    "works at Imaxinacion Technology, one of Nigeria's leading IT companies.",
-                descLength: 220,
-                button: {
-                    text: 'GitHub - 1',
-                    url: 'https://github.com/iamwizzdom/slideWiz',
-                    class: 'btn btn-medium btn-primary'
-                }
+                title: 'Nigerielles',
+                desc: "C'est une organisation qui soutient et accompagne les femmes entrepreneur",
+                descLength: 220
             },
             {
                 src: {
                     main: "public/img/femme.jpg",
                     cover: "public/img/wedding.jpg"
                 },
-                title: 'slideWiz Library - 2',
-                desc: "2: slideWiz is a JQuery based library created by a Nigerian Software " +
-                    "Engineer by the name 'Wisdom Emenike' who at the time of writing this library " +
-                    "works at Imaxinacion Technology, one of Nigeria's leading IT companies.",
-                button: {
-                    text: 'GitHub - 2',
-                    url: 'https://github.com/iamwizzdom/slideWiz',
-                    class: 'btn btn-medium btn-primary'
-                }
+                title: 'Nigerielles',
+                desc: "En partenariat avec des institutions et des cabinets de formation de la place, Nigerielles s’engage à former ‘’autrement’’ les femmes entrepreneurs, les porteuses de projets ou leaders du Niger dans toutes les régions. ",
+                
             },
             {
                 src: {
                     main: "public/img/wedding.jpg",
                     cover: "public/img/training.jpg"
                 },
-                title: 'slideWiz Library - 3',
-                desc: "3: slideWiz is a JQuery based library created by a Nigerian Software " +
-                    "Engineer by the name 'Wisdom Emenike' who at the time of writing this library " +
-                    "works at Imaxinacion Technology, one of Nigeria's leading IT companies.",
+                title: 'Nigerielles',
+                desc: "Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir, regroupées en business club.",
                 descLength: 190,
-                button: {
-                    text: 'GitHub - 3',
-                    url: 'https://github.com/iamwizzdom/slideWiz',
-                    class: 'btn btn-medium btn-primary'
-                }
+                
             },
             {
                 src: {
                     main: "public/img/training.jpg",
                     cover: "public/img/houses.jpg"
                 },
-                title: 'slideWiz Library - 4',
-                desc: "4: slideWiz is a JQuery based library created by a Nigerian Software " +
-                    "Engineer by the name 'Wisdom Emenike' who at the time of writing this library " +
-                    "works at Imaxinacion Technology, one of Nigeria's leading IT companies.",
-                button: {
-                    text: 'GitHub - 4',
-                    url: false,
-                    class: 'btn btn-medium btn-primary'
-                }
+                title: 'Nigerielles',
+                desc: "Ces femmes se retrouvent chaque mois autour de diverses activités à savoir des déjeuners ou rendez-vous d’affaires, des activités diverses allant des dons aux orphelins ou femmes défavorisées, a des activités",
+                
             }
         ]
 
