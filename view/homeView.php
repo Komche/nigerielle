@@ -222,14 +222,14 @@ ob_start();
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
-                                    <img class="img-gallery modal-img" src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery modal-img" src="public/img/n1.jpg" width="90px" height="60px" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="flores" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1515362778563-6a8d0e44bc0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/n11.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
@@ -238,21 +238,21 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/n12.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1549294413-26f195200c16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80">
+                                    <img class="img-gallery" src="public/img/n9.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1531003300514-1976481c521e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjUzMjV9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/n8.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
@@ -261,17 +261,73 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1488805990569-3c9e1d76d51c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/n10.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cancha en el bosque" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=50">
+                                    <img class="img-gallery" src="public/img/n2.jpg" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
+
+
+                        <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="playa" class="link-gallery">
+                                    <img class="img-gallery modal-img" src="public/img/n3.jpg" width="90px" height="60px" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="flores" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n4.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        <!--</div>-->
+                        <!--<div class="row">-->
+                        <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="cascada" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n5.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="rocas" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n6.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="rocas" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n7.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        <!--</div>
+                <div class="row">-->
+                        <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="cascada" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n13.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
+                            <div class="box">
+                                <a title="cancha en el bosque" class="link-gallery">
+                                    <img class="img-gallery" src="public/img/n14.jpg" width="90px" height="60px">
+                                </a>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </section>

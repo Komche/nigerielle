@@ -36,7 +36,8 @@ if (isset($_GET['action'])) {
                 </p>";
             }elseif ($activite='house') {
                 $_SESSION['activite']['img'] = 'public/img/houses.jpg' ;
-                $_SESSION['activite']['titre'] = 'La Smart House : pépinière pour les femmes entrepreneures' ;
+                $_SESSION['activite']['titre'] = 'La Smart House : pépinière pour les
+                 femmes entrepreneures' ;
                 $_SESSION['activite']['description'] = "<p>
                 La Smart House de Nigerielles est le projet de la mise en place d’un centre incubateur pour femmes entrepreneures courant 2019. Il s’agira de la réalisation et la concrétisation de toutes les actions menées par Nigerielles pour le développement des compétences des femmes. Le centre accueillera pour la première année 25 femmes avec des entreprises ou des projets d’entreprises innovants à fort impact sociétal. En partenariat avec d’autres centres du Niger et de la sous-région, nous relèverons les défis de l’entreprenariat féminin en Afrique afin d’enrichir le potentiel personnel et entrepreneurial des femmes. 
                 </p>";
