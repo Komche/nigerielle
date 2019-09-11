@@ -46,7 +46,7 @@ ob_start();
         <div class="col-md-4">
             <div class="card-deck">
                 <div class="card bg-border">
-                    <img class="card-img-top" src="public/img/me.JPG" alt="Image directrice">
+                    <img class="card-img-top" src="public/img/fem.jpg" alt="Image directrice">
                     <div class="card-body">
                         <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
                         <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
@@ -222,14 +222,14 @@ ob_start();
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
-                                    <img class="img-gallery modal-img" src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery modal-img" src="public/img/n.JPG">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="flores" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1515362778563-6a8d0e44bc0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/nig.JPG">
                                 </a>
                             </div>
                         </div>
@@ -238,21 +238,21 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/niger.jpg">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1549294413-26f195200c16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80">
+                                    <img class="img-gallery" src="public/img/fem.JPG">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1531003300514-1976481c521e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjUzMjV9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/pa.JPG">
                                 </a>
                             </div>
                         </div>
@@ -261,14 +261,14 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1488805990569-3c9e1d76d51c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+                                    <img class="img-gallery" src="public/img/page.JPG"
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cancha en el bosque" class="link-gallery">
-                                    <img class="img-gallery" src="https://images.unsplash.com/photo-1560200353-ce0a76b1d438?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=50">
+                                    <img class="img-gallery" src="public/img/p.JPG">
                                 </a>
                             </div>
                         </div>

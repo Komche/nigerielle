@@ -19,8 +19,7 @@
         <div class="menu-icon">
           <i class="fa fa-bars fa-2x"></i>
         </div>
-        <div class="logo">
-          
+        <div class="logo"> 
         </div>
         <div class="menu">
           <ul class="navb">
