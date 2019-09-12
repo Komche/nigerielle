@@ -28,15 +28,16 @@ if (isset($_GET['action'])) {
                 $_SESSION['activite']['description'] = "<p>
                 Nigerielles Events est le pôle événementiel de l’organisation. Tout au long de l’année, nous organisons des séries d’événements d’envergure nationale et sous-régionale pour créer un cadre d’échange et de partenariat entre femmes entrepreneures et potentiels partenaires/investisseurs. Notre principal cible étant les femmes, nous menons des campagnes de sensibilisations aux femmes de toutes les couches sociales, mais aussi des campagnes de leadership adressées aux jeunes filles pour les motiver à donner le meilleur d’elles-mêmes dans la société, le tout commençant par une meilleure scolarisation. Notre événement phare de l’année est le Salon National de l’Entrepreneuriat Féminin organisé en fin d’année qui mobilise entre 3.000 et 5.000 visiteurs à chaque édition. 
                  </p>";
-            }elseif ($activite=='magazine') {
+            }elseif ($activite='magazine') {
                 $_SESSION['activite']['img'] = 'public/img/magazine.jpg' ;
                 $_SESSION['activite']['titre'] = 'Nigerielles Le Magazine ' ;
                 $_SESSION['activite']['description'] = "<p>
                 Au sortir de chaque édition du Salon National de l’entrepreneuriat féminin, un magazine d’éducation entrepreneuriale, est conçu en format papier et électronique pour édifier la population sur les différents acteurs de l’entrepreneuriat féminin, mais aussi le déroulé du Salon. Le magazine récence aussi toutes les activités organisées par des femmes nigériennes tout au long de l’année en vue de les promouvoir. Il s’agit-là, de vulgariser l’entrepreneuriat féminin à travers un magazine au design inégalé pour séduire le lecteur et attirer les potentiels partenaires.
                 </p>";
-            }elseif ($activite=='house') {
+            }elseif ($activite='house') {
                 $_SESSION['activite']['img'] = 'public/img/houses.jpg' ;
-                $_SESSION['activite']['titre'] = 'La Smart House : pépinière pour les femmes entrepreneures' ;
+                $_SESSION['activite']['titre'] = 'La Smart House : pépinière pour les
+                 femmes entrepreneures' ;
                 $_SESSION['activite']['description'] = "<p>
                 La Smart House de Nigerielles est le projet de la mise en place d’un centre incubateur pour femmes entrepreneures courant 2019. Il s’agira de la réalisation et la concrétisation de toutes les actions menées par Nigerielles pour le développement des compétences des femmes. Le centre accueillera pour la première année 25 femmes avec des entreprises ou des projets d’entreprises innovants à fort impact sociétal. En partenariat avec d’autres centres du Niger et de la sous-région, nous relèverons les défis de l’entreprenariat féminin en Afrique afin d’enrichir le potentiel personnel et entrepreneurial des femmes. 
                 </p>";
