@@ -60,7 +60,7 @@
             <h5>Adresse</h5>
             <ul class="list-unstyled quick-links">
               <li><a href="javascript:void();"><i class="fa fa-map-marker"></i>Niamey, Niamey</a></li>
-              <li><a href="javascript:void();"><i class="fa fa-phone"></i>+227 96 26 76 90</a></li>
+              <li><a href="javascript:void();"><i class="fa fa-phone"></i>+227 90 95 63 64/+227 93 90 63 64</a></li>
               <li><a href="javascript:void();"><i class="fa fa-envelope"></i><a href="Contact@nigerielles.ne">Contact@nigerielles.ne</a></li>
               
             </ul>
@@ -73,7 +73,7 @@
             </ul>
           </div>
           <div class="col-xs-12 col-sm-3 col-md-4">
-            <h5>Newsletter</h5>
+            <h5>Contact</h5>
 	<div class="row justify-content-center">
 		<div class="col-xs-12 pb-5">
 
@@ -83,7 +83,7 @@
                     <form action="#" method="post">
                         <div style="height: 370px" class="card border-success rounded-0">
                             <div class="card-header p-0">
-                                <div class="bg-success text-white text-center py-2">
+                                <div class="bg-success text-green text-center py-2">
                                     <h3><i class="fa fa-envelope"></i> Contactez-nous</h3>
                                     <p class="m-0">Vous pouvez nous contacter à partir du formulaire</p>
                                 </div>
@@ -143,7 +143,7 @@
         </div>-->
         <div style="width: 100%" class="row">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
-            <p class="text-center">Développé par <u><a href="www.novatech.ne">NOVATECH</a></u> </p>
+            <p class="text-center">Développé par <a href="www.novatech.ne">NOVATECH</a></p>
             <p class="h6">&copy Tout droit reservé.<a class="text-green ml-2" href="http://www.nigerielle.ne" target="_blank">Nigerielles 2019</a></p>
           </div>
           </hr>
