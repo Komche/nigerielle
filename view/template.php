@@ -23,7 +23,7 @@
         </div>
         <div class="menu">
           <ul class="navb">
-            <li class="acc"><a href="index.php"><img src="public/img/nigerielle1.png" width="140px" height="75px" alt="logo nigerielle"></a></li>
+            <li class="acc"><a href="index.php"><img src="public/img/Logo_Nigerielles.jpg" width="140px" height="75px" alt="logo nigerielle"></a></li>
             <li class="acc"><a class="animate" href="index.php">Accueil</a></li>
             <li><a class="animate" href="#">Présentation</a>
               <ul class ="sub">
