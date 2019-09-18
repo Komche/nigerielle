@@ -46,7 +46,7 @@ ob_start();
         <div class="col-md-4">
             <div class="card-deck">
                 <div class="card bg-border">
-                    <img class="card-img-top" src="public/img/p.JPG" alt="Image directrice">
+                    <img class="card-img-top" src="public/img/presentation.JPG" alt="Image directrice">
                     <div class="card-body">
                         <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
                         <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
@@ -78,7 +78,7 @@ ob_start();
                                         <!--Date-->
 
                                         <!--Image-->
-                                        <figure><img alt="" src="public/img/me.JPG"></figure>
+                                        <figure><img alt="" src="public/img/actu1.JPG"></figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
@@ -104,7 +104,7 @@ ob_start();
                                         <!--Date-->
 
                                         <!--Image-->
-                                        <figure> <img alt="" src="public/img/pa.JPG"> </figure>
+                                        <figure> <img alt="" src="public/img/actu2.JPG"> </figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
@@ -131,7 +131,7 @@ ob_start();
                                     <div class="item-box-blog-image">
                                         <!--Date-->
                                         <!--Image-->
-                                        <figure> <img alt="" src="public/img/fem.JPG"> </figure>
+                                        <figure> <img alt="" src="public/img/actu3.JPG"> </figure>
                                     </div>
                                     <div class="item-box-blog-body">
                                         <!--Heading-->
@@ -222,7 +222,7 @@ ob_start();
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
-                                    <img class="img-gallery modal-img" src="public/img/n1.jpg" width="90px" height="60px" alt="">
+                                    <img class="img-gallery modal-img" src="public/img/n1.JPG" width="90px" height="60px" alt="">
                                 </a>
                             </div>
                         </div>
@@ -245,14 +245,14 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n9.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n9.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n8.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n8.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
@@ -261,14 +261,14 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n10.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n10.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cancha en el bosque" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n2.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n2.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
@@ -277,14 +277,14 @@ ob_start();
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
-                                    <img class="img-gallery modal-img" src="public/img/n3.jpg" width="90px" height="60px" alt="">
+                                    <img class="img-gallery modal-img" src="public/img/n3.JPG" width="90px" height="60px" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="flores" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n4.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n4.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
@@ -293,21 +293,21 @@ ob_start();
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="cascada" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n5.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n5.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n6.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n6.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="rocas" class="link-gallery">
-                                    <img class="img-gallery" src="public/img/n7.jpg" width="90px" height="60px">
+                                    <img class="img-gallery" src="public/img/n7.JPG" width="90px" height="60px">
                                 </a>
                             </div>
                         </div>
