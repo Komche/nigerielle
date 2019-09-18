@@ -35,7 +35,7 @@ ob_start();
                     </div>
                 </div>
                 <div class="card bg">
-                    <a href="index.php?action=activite&activite=maison"><i class="fa fa-university fa-5x text-success" aria-hidden="true"></i></a>
+                    <a href="index.php?action=activite&activite=maison"><i class="fa fa-university fa-4x text-success" aria-hidden="true"></i></a>
                     <div class="card-body">
                         <h5 class="card-title">La Smart House </h5>
                     </div>
@@ -202,8 +202,8 @@ ob_start();
                             </div>
                         </div>
                     </div>
-                    <button class="btn btn-primary leftLst">
-                        <</button> <button class="btn btn-primary rightLst">>
+                    <button class="btn btn-success leftLst">
+                        <</button> <button class="btn btn-success rightLst">>
                     </button>
                 </div>
             </div>
@@ -350,7 +350,7 @@ ob_start();
                 </h3>
                 <div class="row">
                     <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.750620308406!2d2.0863344140915814!3d13.550883890477701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f940569cead%3A0x91f5f8ebd4598cf3!2sNOVATECH!5e0!3m2!1sfr!2sne!4v1565891462157!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.8807384598886!2d2.0901718497753445!3d13.542906805703378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f741f03c03f%3A0xb7df0e3b0a2a5aac!2sNigerielles!5e0!3m2!1sfr!2sne!4v1568832175108!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                     </div>
                 </div>
                 <hr>

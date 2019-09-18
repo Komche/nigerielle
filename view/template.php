@@ -65,10 +65,10 @@
               
             </ul>
             <ul class="list-unstyled list-inline social text-left">
-              <li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-facebook"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-twitter"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-instagram"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();"><i class="fa fa-google-plus"></i></a></li>
+              <li class="list-inline-item"><a href="https://www.facebook.com/Nigerielles/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/NigeriElles" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-instagram"></i></a></li>
+              <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-google-plus"></i></a></li>
               <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-envelope"></i></a></li>
             </ul>
           </div>
