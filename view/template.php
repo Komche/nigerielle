@@ -35,7 +35,7 @@
             <li><a class="animate" href="index.php?action=activite">Activités</a></li>
             <li><a class="animate" href="#">Actualités</a></li>
             <li><a class="animate" href="#">Galerie</a></li>
-            <li><a class="animate" href="#">Contact</a></li>
+            <li><a class="animate" href="index.php?action=contact">Contact</a></li>
             <li>
               <div class="search">
                 <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />

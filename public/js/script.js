@@ -252,10 +252,9 @@ $(document).ready(function () {
                 },
                 title: 'Nigerielles',
                 desc: "Ces femmes se retrouvent chaque mois autour de diverses activités à savoir des déjeuners ou rendez-vous d’affaires, des activités diverses allant des dons aux orphelins ou femmes défavorisées, a des activités",
-                
+                   
             },
         ]
-
     });
 
 });
