@@ -56,7 +56,6 @@ ob_start();
         </div>
     </div>
 </div>
-
 </div>
 </div>
 <div style="margin-bottom: 30px" class="container arriere">
@@ -102,7 +101,6 @@ ob_start();
                                 <div class="item-box-blog">
                                     <div class="item-box-blog-image">
                                         <!--Date-->
-
                                         <!--Image-->
                                         <figure> <img alt="" src="public/img/pa.JPG"> </figure>
                                     </div>
@@ -115,13 +113,11 @@ ob_start();
                                         </div>
                                         <!--Data-->
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
                                             <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
-
                                         <!--Read More Button-->
                                     </div>
                                 </div>
@@ -161,12 +157,10 @@ ob_start();
             </div>
             <button type="button" name="button" class="btn login_btn voir-plus">Plus d'actualités</button>
         </div>
-
     </div>
     <div><br>
         <h1 class="text-center">Partenaires</h1>
         <!------ Include the above in your HEAD tag ---------->
-
         <div class="container">
             <div class="row">
                 <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel" data-interval="1000">
@@ -178,17 +172,12 @@ ob_start();
                         </div>
                         <div class="item">
                             <div class="pad15">
-
                                 <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%">
-
-
-
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
                                 <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">
-
                             </div>
                         </div>
                         <div class="item">
@@ -214,7 +203,6 @@ ob_start();
 
     <div>
         <h2 class="text-center">GALERIE PHOTOS</h2>
-
         <div id="gallery">
             <section>
                 <div class="container">
@@ -358,7 +346,6 @@ ob_start();
                 </a>
     </div>
 </div>
-
 <?php
 $content = ob_get_clean();
 require('template.php');
