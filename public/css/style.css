@@ -1093,23 +1093,23 @@ a {
 	margin-left: -25px;
 }
 .contact {
-	background-image: url("http://infinityflamesoft.com/html/abal-preview/assets/img/contact_back.jpg");
+  
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
 	position: relative;
 	z-index: 2;
-	color: #fff;
+	color: black;
 }
 .contact-form input,
 textarea {
 	width: 100%;
-	border: 1px solid #555;
+	border: 1px solid #741b47; 
 	padding: 5px 10px;
 	text-transform: capitalize;
 	margin-top: 15px;
 	background-color: transparent;
-	color: #fff;
+	color: white;
 }
 .contact:before {
 	position: absolute;
@@ -1118,7 +1118,6 @@ textarea {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background-color: #333;
 	z-index: -1;
 	opacity: .85;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
@@ -1128,15 +1127,17 @@ textarea {
 	position: relative;
 	padding-left: 70px;
 	margin-bottom: 50px;
-	margin-top: 10px;
+    margin-top: 10px;
+    
 }
 .single-contact i.fa {
-	position: absolute;
+    position: absolute;
+    color: #FFF;
 	left: 0;
 	top: 50%;
 	-webkit-transform: translateY(-50%);
 	        transform: translateY(-50%);
-	background-color: #FF7200;
+	background-color: #741b47;
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
@@ -1153,7 +1154,7 @@ textarea {
 	font-weight: 400;
 }
 .contact-form input[type="submit"] {
-	background-color: #FF7200;
+	background-color:  #741b47;
 	border: 0px;
 	cursor: pointer;
 	font-size: 16px;
@@ -1161,8 +1162,11 @@ textarea {
 	transition: .4s
 }
 .contact-form input[type="submit"]:hover {
-	background-color: #CC5B00
+	background-color:f#078015
 }
 .contact-form input:focus, textarea:focus {
 	border-color: #CC5B00
+}
+h4{
+    color: #41cb52;
 }
