@@ -51,6 +51,10 @@
               <a class="nav-link" href="#">Contact</a>
             </li>
           </ul>
+          <div class="search">
+                <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
+                <button type="submit" class="btn btn-success btn-sm"><i class="fa fa-search"></i></button>
+              </div>
           <!--<form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-default my-2 my-sm-0" type="submit">Search</button>
