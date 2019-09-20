@@ -42,7 +42,7 @@
               <a class="nav-link" href="index.php?action=activite">Activités</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Actualités</a>
+              <a class="nav-link" href="index.php?action=actualites">Actualités</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=galerie">Galerie</a>
