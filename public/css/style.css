@@ -1435,10 +1435,10 @@ textarea {
 	transition: .4s
 }
 .contact-form input[type="submit"]:hover {
-	background-color:f#078015
+	background-color:#078015;
 }
 .contact-form input:focus, textarea:focus {
-	border-color: #CC5B00
+	border-color: #078015;
 }
 h4{
     color: #41cb52;}
