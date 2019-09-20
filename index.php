@@ -46,6 +46,8 @@ if (isset($_GET['action'])) {
         require('view/activiteView.php');
     }elseif ($action=="contact") {
         require('view/contactView.php');
+    }elseif ($action=="galerie") {
+        require('view/galerieView.php');
     }
 } else {
     require_once('view/homeView.php');    

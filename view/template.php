@@ -26,7 +26,7 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" href="#">Accueil <span class="sr-only">(current)</span></a>
+              <a class="nav-link active" href="index.php">Accueil <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown dmenu">
               <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -45,7 +45,7 @@
               <a class="nav-link" href="#">Actualités</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Galerie</a>
+              <a class="nav-link" href="index.php?action=galerie">Galerie</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=contact">Contact</a>
