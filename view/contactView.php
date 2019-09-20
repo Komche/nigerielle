@@ -3,7 +3,7 @@ $title = "Contact";
 ob_start();
 ?>
     <section style="padding-top: 0;" class="contact pt-100 pb-100" id="contact">
-    <div style="background-image: url(public/img/n3.JPG); height: 400px" class=" mx-auto text-center">
+    <div style="background-image: url(public/img/n3.JPG); background-repeat: no-repeat;background-size: 1500px; height: 400px"  class=" mx-auto text-center">
                   <div  class="section-title mb-100">
                      <h4>Contactez-nous</h4>
                   </div>
@@ -47,12 +47,12 @@ ob_start();
                      <div class="single-contact">
                         <i class="fa fa-phone"></i>
                         <h5>Telephone</h5>
-                        <p>93906364/90956364</p>
+                        <p> +227 93 90 63 64 / 90 95 63 64</p>
                      </div>
                      <div class="single-contact">
                         <i class="fa fa-envelope"></i>
                         <h5>Email</h5>
-                        <p>contact.nigerielles@.ne</p>
+                        <p>contact.nigerielles.ne</p>
                      </div>
                   </div>
                   </div>
