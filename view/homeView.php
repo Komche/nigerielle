@@ -331,8 +331,6 @@ ob_start();
                 <div id="caption">hola</div>
             </div>
         </div>
-
-
         <br>
         <h1 class="text-center"> Retrouvez-nous <h1><br>
                 </h3>
@@ -342,7 +340,6 @@ ob_start();
                     </div>
                 </div>
                 <hr>
-
                 </a>
     </div>
 </div>

@@ -50,7 +50,7 @@ if (!empty($_SESSION['activite'])) {
                         <p class="card-text mb-auto">C’est le volet formation de l’organisation. En partenariat avec des institutions...</p>
                         <a class="ac-btn btn btn-outline-primary btn-sm" role="button" href="index.php?action=activite&activite=training">Lire plus</a>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/training.jpg" style="width: 200px; height: 250px;">
+                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/n13.jpg" style="width: 200px; height: 250px;">
                 </div>
             </div>
             <div class="col-md-6">
@@ -63,7 +63,7 @@ if (!empty($_SESSION['activite'])) {
                         <p class="card-text mb-auto"> Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir...</p>
                         <a class="ac-btn btn btn-outline-success btn-sm" href="index.php?action=activite&activite=business">Continue reading</a>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/business-3639450_1920.jpg" style="width: 200px; height: 250px;">
+                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/n11.jpg" style="width: 200px; height: 250px;">
                 </div>
             </div>
         </div>
@@ -79,7 +79,7 @@ if (!empty($_SESSION['activite'])) {
                         <p class="card-text mb-auto">Nigerielles Events est le pôle événementiel de l’organisation. Tout au long de l’année...</p>
                         <a class=" ac-btn btn btn-outline-primary btn-sm" role="button" href="index.php?action=activite&activite=event">Continue reading</a>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/wedding.jpg" style="width: 200px; height: 250px;">
+                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/n8.JPG" style="width: 200px; height: 250px;">
                 </div>
             </div>
             <div class="col-md-6">
@@ -93,7 +93,7 @@ if (!empty($_SESSION['activite'])) {
                         <p class="card-text mb-auto">Au sortir de chaque édition du Salon National de l’entrepreneuriat féminin, un magazine...</p>
                         <a class=" ac-btn btn btn-outline-success btn-sm" href="index.php?action=activite&activite=magazin">Continue reading</a>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/magazine.jpg" style="width: 200px; height: 250px;">
+                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/n12.jpg" style="width: 200px; height: 250px;">
                 </div>
             </div>
             <div class="col-md-6">
@@ -106,7 +106,7 @@ if (!empty($_SESSION['activite'])) {
                         <p class="card-text mb-auto">La Smart House de Nigerielles est le projet de la mise en place d’un centre incubateur pour femmes entrepreneures...</p>
                         <a class="ac-btn btn btn-outline-primary btn-sm" role="button" href="index.php?action=activite&activite=maison">Lire plus</a>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/houses.jpg" style="width: 200px; height: 250px;">
+                    <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="public/img/n14.jpg" style="width: 200px; height: 250px;">
                 </div>
             </div>
         </div>

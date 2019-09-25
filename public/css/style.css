@@ -1382,7 +1382,7 @@ textarea {
 	text-transform: capitalize;
 	margin-top: 15px;
 	background-color: transparent;
-	color: white;
+	color: black;
 }
 .contact:before {
 	position: absolute;
