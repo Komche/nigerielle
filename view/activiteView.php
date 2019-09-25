@@ -10,7 +10,7 @@ if (!empty($_SESSION['activite'])) {
         <div class="banner" style="width:100%;">
             <img style="width:100%;" src="<?php echo ($_SESSION['activite']['img']); ?>" class="fit banner-image">
             <div class="banner-title">
-                <h1><?php echo ($_SESSION['activite']['titre']); ?></h1>
+                <h1><?php echo ($_SESSION['activités']['titre']); ?></h1>
             </div>
 
         </div>

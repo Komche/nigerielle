@@ -12,11 +12,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="public/css/style.css">
 </head>
-
 <body>
   <div class="wrapper">
     <header>
-
       <nav class="navbar navbar-expand-sm   navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
         <i style="color: #fff" class="fa fa-bars fa-2x"></i>
@@ -33,13 +31,16 @@
                 Présentation
               </a>
               <div class="dropdown-menu sm-menu">
-                <a class="dropdown-item" href="#">Vision</a>
+                <a class="dropdown-item" href="#">Missions</a>
                 <a class="dropdown-item" href="#">Objectif</a>
-                <a class="dropdown-item" href="#">Valeur</a>
+                <a class="dropdown-item" href="#">Valeurs</a>
               </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=activite">Activités</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.php?action=programme">Programme</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=actualite">Actualités</a>

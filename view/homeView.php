@@ -48,7 +48,7 @@ ob_start();
                 <div class="card bg-border">
                     <img class="card-img-top" src="public/img/presentation.JPG" alt="Image directrice">
                     <div class="card-body">
-                        <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
+                        <h5 class="card-title text-center"><b>L'entrepreneur du mois</b></h5>
                         <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
                     </div>
                 </div>
@@ -151,7 +151,6 @@ ob_start();
                             </div>
                         </div>
                         <!--.row-->
-
                     </div>
                 </div>
             </div>
