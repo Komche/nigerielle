@@ -5,7 +5,7 @@ ob_start();
 <div class="slideWiz" style="width: 100%; height: 650px;"></div>
 <div style="margin-top: 30px" class="container-fluid h-100 arriere">
     <div class="row justify-content-center h-100">
-        <div class="col-md-8 text-center">
+        <div class="col-md-8 text-center wow bounceInUp duration-2s">
             <div class="card-deck">
                 <div class="card bg">
                     <a href="index.php?action=activite&activite=training"><i class="fa fa-child fa-5x text-success" aria-hidden="true"></i></a>
@@ -43,13 +43,13 @@ ob_start();
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 wow bounceInUp duration-2s">
             <div class="card-deck">
                 <div class="card bg-border">
                     <img class="card-img-top" src="public/img/presentation.JPG" alt="Image directrice">
                     <div class="card-body">
-                        <h5 class="card-title text-center"><b>L'entrepreneuse du mois</b></h5>
-                        <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger...</p>
+                        <h5 class="card-title text-center"><b>L'entrepreneur du mois</b></h5>
+                        <p class="card-text">Nigerielles est une association de jeunes femmes nigériennes entrepreneures et porteuses de projets qui a été créé en Mai 2017 dans le but de promouvoir l’entreprenariat et le leadership féminin au Niger <a href="#">lire plus...</a> </p>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ ob_start();
 </div>
 </div>
 <div style="margin-bottom: 30px" class="container arriere">
-    <div class="row blog">
+    <div class="row blog wow bounceInUp duration-2s">
         <div class="col-md-12">
             <h2 class="text-center">Actualités</h2>
             <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
@@ -161,7 +161,7 @@ ob_start();
     <div><br>
         <h1 class="text-center">Partenaires</h1>
         <!------ Include the above in your HEAD tag ---------->
-        <div class="container">
+        <div class="container wow bounceInUp duration-2s">
             <div class="row">
                 <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel" data-interval="1000">
                     <div class="MultiCarousel-inner">
@@ -204,7 +204,7 @@ ob_start();
     <div>
         <h2 class="text-center">GALERIE PHOTOS</h2>
         <div id="gallery">
-            <section>
+            <section class="wow bounceInUp duration-2s">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">

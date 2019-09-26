@@ -11,6 +11,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="public/css/style.css">
+  <link rel="stylesheet" href="public/vendor/css/animate.css">
 </head>
 
 <body>
@@ -19,7 +20,7 @@
 
       <nav class="navbar navbar-expand-sm   navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-        <i style="color: #fff" class="fa fa-bars fa-2x"></i>
+          <i style="color: #fff" class="fa fa-bars fa-2x"></i>
         </button>
         <a class="navbar-brand" href="index.php"><img src="public/img/Logo_Nigerielles.jpg" width="140px" height="75px" alt="logo nigerielle"></a>
 
@@ -33,13 +34,16 @@
                 Présentation
               </a>
               <div class="dropdown-menu sm-menu">
-                <a class="dropdown-item" href="#">Vision</a>
+                <a class="dropdown-item" href="#">Missions</a>
                 <a class="dropdown-item" href="#">Objectif</a>
-                <a class="dropdown-item" href="#">Valeur</a>
+                <a class="dropdown-item" href="#">Valeurs</a>
               </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=activite">Activités</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.php?action=program">Programmes</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="index.php?action=actualite">Actualités</a>
@@ -52,9 +56,9 @@
             </li>
           </ul>
           <div class="search">
-                <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
-                <button type="submit" class="btn btn-success btn-sm"><i class="fa fa-search"></i></button>
-              </div>
+            <input type="text" class="form-control input-sm" maxlength="64" placeholder="rechercher" />
+            <button type="submit" class="btn btn-success btn-sm"><i class="fa fa-search"></i></button>
+          </div>
           <!--<form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-default my-2 my-sm-0" type="submit">Search</button>
@@ -71,22 +75,20 @@
         <div class="row text-center text-xs-center text-sm-left text-md-left">
           <div class="col-xs-12 col-sm-3 col-md-4">
             <h5>Nigerielles</h5>
-            <p style="color:white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel felis maximus nibh tincidunt porta. Fusce tincidunt erat laoreet dolor aliquet porta.</p>
+            <p style="color:white">Association des femmes nigeriennes entrepreneures et porteuses de projet dans la transformation des produits agricoles.</p>
           </div>
           <div class="col-xs-12 col-sm-3 col-md-4">
             <h5>Adresse</h5>
             <ul class="list-unstyled quick-links">
               <li><a href="javascript:void();"><i class="fa fa-map-marker"></i>Niamey, Niamey</a></li>
               <li><a href="javascript:void();"><i class="fa fa-phone"></i>+227 90 95 63 64/+227 93 90 63 64</a></li>
-              <li><a href="javascript:void();"><i class="fa fa-envelope"></i><a href="Contact@nigerielles.ne">Contact@nigerielles.ne</a></li>
+              <li><a href="javascript:void();"><i class="fa fa-envelope"></i><a href="mailto:Contact@nigerielles.ne">Contact@nigerielles.ne</a></li>
 
             </ul>
             <ul class="list-unstyled list-inline social text-left">
               <li class="list-inline-item"><a href="https://www.facebook.com/Nigerielles/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li class="list-inline-item"><a href="https://twitter.com/NigeriElles" target="_blank"><i class="fa fa-twitter"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-instagram"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-              <li class="list-inline-item"><a href="javascript:void();" target="_blank"><i class="fa fa-envelope"></i></a></li>
+              <li class="list-inline-item"><a href="mailto:Contact@nigerielles.ne" target="_blank"><i class="fa fa-envelope"></i></a></li>
             </ul>
           </div>
           <div class="col-xs-12 col-sm-3 col-md-4">
@@ -98,9 +100,9 @@
                 <!--Form with header-->
 
                 <form action="#" method="post">
-                  <div style="height: 370px" class="card border-success rounded-0">
+                  <div style="height: 380px" class="card border-success rounded-0">
                     <div class="card-header p-0">
-                      <div class="bg-success text-green text-center py-2">
+                      <div style="color: white" class="bg-success text-green text-center  py-2">
                         <h3><i class="fa fa-envelope"></i> Contactez-nous</h3>
                         <p class="m-0">Vous pouvez nous contacter à partir du formulaire</p>
                       </div>
@@ -173,7 +175,11 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="public/vendor/js/wow.min.js"></script>
     <script src="public/js/script.js"></script>
+    <script>
+      new WOW().init();
+    </script>
 </body>
 
 </html>
