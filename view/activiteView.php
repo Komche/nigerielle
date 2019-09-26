@@ -1,5 +1,5 @@
 <?php
-$title = "Activté";
+$title = "Activités";
 
 ob_start();
 if (!empty($_SESSION['activite'])) {

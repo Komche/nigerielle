@@ -191,13 +191,7 @@ $(document).ready(function () {
         row: 12,
         col: 35,
         animation: [
-            'flip',
-            'slice',
-            'box3D',
             'pixel',
-            'fade',
-            'glide',
-            'card'
         ],
         file: [{
                 src: {

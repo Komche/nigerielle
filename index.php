@@ -49,14 +49,11 @@ if (isset($_GET['action'])) {
     } elseif ($action == "galerie") {
 
         require('view/galerieView.php');
-    } elseif ($action == "actualites") {
+    } elseif ($action == "actualite") {
         require('view/actualiteView.php');
-
     } else {
         require_once('view/homeView.php');
-
     }
 }else {
     require_once('view/homeView.php');
-
 }
