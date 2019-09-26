@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="public/vendor/slideshow/src/css/slideWiz.css">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://daneden.github.io/animate.css/">
   <link rel="stylesheet" href="public/css/style.css">
 </head>
 <body>
@@ -107,7 +108,6 @@
                       </div>
                     </div>
                     <div class="card-body p-3">
-
                       <!--Body-->
                       <div class="form-group">
                         <div class="input-group mb-2">
