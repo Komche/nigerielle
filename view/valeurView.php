@@ -2,7 +2,7 @@
 $title = "Missions";
 ob_start();
 ?>
-<div style="background-image: url(public/img/n13.jpg); background-repeat: no-repeat;background-size: 1500px; height: 700px" class=" mx-auto text-center">
+<div style="background-image: url(public/img/n9.JPG); background-repeat: no-repeat;background-size: 1500px; height: 700px" class=" mx-auto text-center">
     <div class="section-title mb-100">
         <h4>Nos valeurs</h4>
     </div>
