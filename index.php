@@ -51,6 +51,12 @@ if (isset($_GET['action'])) {
         require('view/galerieView.php');
     } elseif ($action == "actualite") {
         require('view/actualiteView.php');
+    }elseif ($action == "mission") {
+        require('view/missionView.php');
+    }elseif ($action == "valeur") {
+        require('view/valeurView.php');
+    }elseif ($action == "objectif") {
+        require('view/objectifView.php');
     } else {
         require_once('view/homeView.php');
     }
