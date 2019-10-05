@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +21,6 @@
           <i style="color: #fff" class="fa fa-bars fa-2x"></i>
         </button>
         <a class="navbar-brand" href="index.php"><img src="public/img/Logo_Nigerielles.jpg" width="140px" height="75px" alt="logo nigerielle"></a>
-
         <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item">
@@ -64,9 +62,7 @@
     </form>-->
         </div>
       </nav>
-
     </header>
-
     <?php echo $content ?>
     <!-- Footer -->
     <section id="footer">
@@ -82,7 +78,6 @@
               <li><a href="javascript:void();"><i class="fa fa-map-marker"></i>Niamey, Niamey</a></li>
               <li><a href="javascript:void();"><i class="fa fa-phone"></i>+227 90 95 63 64/+227 93 90 63 64</a></li>
               <li><a href="javascript:void();"><i class="fa fa-envelope"></i><a href="mailto:Contact@nigerielles.ne">Contact@nigerielles.ne</a></li>
-
             </ul>
             <ul class="list-unstyled list-inline social text-left">
               <li class="list-inline-item"><a href="https://www.facebook.com/Nigerielles/" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -94,10 +89,7 @@
             <h5>Contact</h5>
             <div class="row justify-content-center">
               <div class="col-xs-12 pb-5">
-
-
                 <!--Form with header-->
-
                 <form action="#" method="post">
                   <div style="height: 380px" class="card border-success rounded-0">
                     <div class="card-header p-0">
@@ -124,7 +116,6 @@
                           <input type="email" class="form-control" id="nombre" name="email" placeholder="Votre adresse mail" required>
                         </div>
                       </div>
-
                       <div class="form-group">
                         <div class="input-group mb-2">
                           <div class="input-group-prepend">
@@ -133,19 +124,16 @@
                           <textarea class="form-control" placeholder="Votre message" required></textarea>
                         </div>
                       </div>
-
                       <div style="position: relative" class="text-center">
                         <input type="submit" value="Envoyer" class="btn btn-success btn-block rounded-0">
                       </div>
                     </div>
-
                   </div>
                 </form>
                 <!--Form with header-->
               </div>
             </div>
           </div>
-
           <!--<div class="row">
           <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
             <ul class="list-unstyled list-inline social text-center">
@@ -179,5 +167,4 @@
       new WOW().init();
     </script>
 </body>
-
 </html>

@@ -241,8 +241,6 @@ ob_start();
 
         </div>
     </div><br>
-
-
     <div>
         <h2 class="text-center">GALERIE PHOTOS</h2><br>
 

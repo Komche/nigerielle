@@ -195,11 +195,8 @@ ob_start();
                     </button>
                 </div>
             </div>
-
         </div>
     </div><br>
-
-
     <div>
         <h2 class="text-center">GALERIE PHOTOS</h2>
         <div id="gallery">
@@ -259,8 +256,6 @@ ob_start();
                                 </a>
                             </div>
                         </div>
-
-
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
