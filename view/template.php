@@ -36,7 +36,7 @@
               <div class="dropdown-menu sm-menu">
                 <a class="dropdown-item" href="index.php?action=mission">Missions</a>
                 <a class="dropdown-item" href="#">Objectif</a>
-                <a class="dropdown-item" href="#">Valeurs</a>
+                <a class="dropdown-item" href="index.php?action=valeur">Valeurs</a>
               </div>
             </li>
             <li class="nav-item">
