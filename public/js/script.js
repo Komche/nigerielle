@@ -195,8 +195,8 @@ $(document).ready(function () {
                     //main: "public/img/p.JPG",
                     cover: "public/img/femme.JPG"
                 },
-                title: 'Nigerielles',
-                desc: "C'est une organisation qui soutient et accompagne les femmes entrepreneur",
+                title: 'Training',
+                desc: "C’est le volet formation de l’organisation. En partenariat avec des institutions et des cabinets de formation de la place, Nigerielles s’engage à former ‘’autrement’’ les femmes entrepreneurs, les porteuses de projets ou leaders du Niger dans toutes les régions",
                 descLength: 220
             },
             {
@@ -204,8 +204,8 @@ $(document).ready(function () {
                     //main: "public/img/sami.JPG",
                     cover: "public/img/img.JPG"
                 },
-                title: 'Nigerielles',
-                desc: "En partenariat avec des institutions et des cabinets de formation de la place, Nigerielles s’engage à former ‘’autrement’’ les femmes entrepreneurs, les porteuses de projets ou leaders du Niger dans toutes les régions. ",
+                title: 'Business Club',
+                desc: "Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir, regroupées en business club. ",
                 
             },
             {

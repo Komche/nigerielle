@@ -43,7 +43,7 @@ nav ul {
     padding: 0;
     text-align: right;
     margin: 0;
-    padding-right: 5px;
+    padding-right: 20px;
     transition: 1s;
 }
 
@@ -58,13 +58,13 @@ nav.black ul a {
 
 nav ul li {
     display: inline-block;
-    padding: 16px 20px;
+    padding: 20px 25px;
 }
 
 nav ul li a {
     text-decoration: none;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .acc a {
@@ -250,7 +250,6 @@ nav.black .acc a {
 .col-md-4 {
     padding-bottom: 20px;
 }
-
 .white {
     color: #fff !important;
 }
@@ -260,7 +259,6 @@ nav.black .acc a {
     margin-top: -20px;
     padding-top: 20px;
 }
-
 .bg-blue-ui {
     background-color: #708198 !important;
 }
@@ -429,13 +427,11 @@ figure img {
     border-radius: 0;
     transition: all 3s ease;
 }
-
 .col-sm-3 a:hover {
     border: 1px solid #ff4647;
     border-radius: 100% 60% / 30% 10%;
     background: linear-gradient(rgba(56, 123, 131, 0.7), rgba(56, 123, 131, 0.7));
 }
-
 .MultiCarousel {
     float: left;
     overflow: hidden;
@@ -443,7 +439,6 @@ figure img {
     width: 100%;
     position: relative;
 }
-
 .MultiCarousel .MultiCarousel-inner {
     transition: 1s ease all;
     float: left;
@@ -556,7 +551,6 @@ body {
 .modal-open .gal-item .modal-body {
     padding: 0px;
 }
-
 .modal-open .gal-item button.close {
     position: absolute;
     width: 25px;
@@ -574,35 +568,29 @@ body {
     -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.35);
     box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.35);
 }
-
 .modal-open .gal-item button.close:focus {
     outline: none;
 }
-
 .modal-open .gal-item button.close span {
     position: relative;
     top: -3px;
     font-weight: lighter;
     text-shadow: none;
 }
-
 .gal-container {
     width: 80%;
 }
-
 @media (min-width: 768px) {
     .gal-container .modal-dialog {
         width: 55%;
         margin: 50 auto;
     }
 }
-
 @media (max-width: 768px) {
     .gal-container .modal-content {
         height: 250px;
     }
 }
-
 /* Modal */
 
 #myImg {
@@ -834,15 +822,12 @@ section .section-title {
 .bg-facebook {
     background-color: #3b5998;
 }
-
 .text-facebook {
     color: #3b5998;
 }
-
 .bg-google-plus {
     background-color: #dd4b39;
 }
-
 .text-google-plus {
     color: #dd4b39;
 }
@@ -854,7 +839,6 @@ section .section-title {
 .text-twitter {
     color: #1da1f2;
 }
-
 .bg-pinterest {
     background-color: #bd081c;
 }
@@ -862,7 +846,6 @@ section .section-title {
 .text-pinterest {
     color: #bd081c;
 }
-
 .share:hover {
     text-decoration: none;
     opacity: 0.8;
@@ -886,9 +869,7 @@ body {
     font-weight: lighter;
     background-color: rgba(102, 102, 102, 0.26);
 }
-
 /* dropdown 
-
 .navb, .navb ul {
     margin: 0px;
     padding: 0px;
@@ -897,7 +878,6 @@ body {
     width: 100%;
     background-color: #000;
 }
-
 .navb li {
     float: left;
     width: 150px;

@@ -151,7 +151,6 @@ ob_start();
                             </div>
                         </div>
                         <!--.row-->
-
                     </div>
                 </div>
             </div>
@@ -199,11 +198,8 @@ ob_start();
                     </button>
                 </div>
             </div>
-
         </div>
     </div><br>
-
-
     <div>
         <h2 class="text-center">GALERIE PHOTOS</h2>
         <div id="gallery">
@@ -263,8 +259,6 @@ ob_start();
                                 </a>
                             </div>
                         </div>
-
-
                         <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
                             <div class="box">
                                 <a title="playa" class="link-gallery">
@@ -334,8 +328,6 @@ ob_start();
                 <div id="caption">hola</div>
             </div>
         </div>
-
-
         <br>
         <h1 class="text-center"> Retrouvez-nous <h1><br>
                 </h3>
@@ -345,7 +337,6 @@ ob_start();
                     </div>
                 </div>
                 <hr>
-
                 </a>
     </div>
 </div>
