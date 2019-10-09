@@ -167,27 +167,30 @@ ob_start();
                     <div class="MultiCarousel-inner">
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/seen.jpeg" width="100%" height="90%">
+                                <a target="_blank" href="https://www.seen-niger.com/fr"><img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/seen.jpeg" width="100%" height="90%"></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%">
+                                <a target="_blank" href="https://www.sonibank.com"><img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/sonibank.jpeg" width="100%" height="90%"></a>
+                                
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%">
+                                <a target="_blank" href="https://www.banqueatlantique.net/ner/"><img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/banque.png" width="100%" height="90%"></a>     
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/orano.png" width="100%" height="90%">
+                                <a target="_blank" href="https://www.orano.group"><img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/orano.png" width="100%" height="90%"></a>
+                                
                             </div>
                         </div>
                         <div class="item">
                             <div class="pad15">
-                                <img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haut.jpg" width="100%" height="90%">
+                                <a target="_blank" href="www.initiative3n.ne"><img class="img-gallery modal-img" alt="" sizes="80%" src="public/img/haut.jpg" width="100%" height="90%"></a>
+                                
                             </div>
                         </div>
                     </div>

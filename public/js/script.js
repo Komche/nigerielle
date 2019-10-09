@@ -117,9 +117,6 @@ $(document).ready(function () {
                 $(this).outerWidth(itemWidth);
             });
 
-            $(".leftLst").addClass("over");
-            $(".rightLst").removeClass("over");
-
         });
     }
 
@@ -134,21 +131,21 @@ $(document).ready(function () {
         var xds = Math.abs(values[4]);
         if (e == 0) {
             translateXval = parseInt(xds) - parseInt(itemWidth * s);
-            $(el + ' ' + rightBtn).removeClass("over");
+            
 
             if (translateXval <= itemWidth / 2) {
                 translateXval = 0;
-                $(el + ' ' + leftBtn).addClass("over");
+                
             }
         }
         else if (e == 1) {
             var itemsCondition = $(el).find(itemsDiv).width() - $(el).width();
             translateXval = parseInt(xds) + parseInt(itemWidth * s);
-            $(el + ' ' + leftBtn).removeClass("over");
+            
 
             if (translateXval >= itemsCondition - itemWidth / 2) {
                 translateXval = itemsCondition;
-                $(el + ' ' + rightBtn).addClass("over");
+                
             }
         }
         $(el + ' ' + itemsDiv).css('transform', 'translateX(' + -translateXval + 'px)');
@@ -187,7 +184,7 @@ $(document).ready(function () {
 
     $('.slideWiz').slideWiz({
         auto: true,
-        speed: 5000,
+        speed: 3000,
         row: 12,
         col: 35,
         animation: [

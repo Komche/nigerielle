@@ -35,7 +35,7 @@
               </a>
               <div class="dropdown-menu sm-menu">
                 <a class="dropdown-item" href="index.php?action=mission">Missions</a>
-                <a class="dropdown-item" href="index.php?action=objectif">Objectif</a>
+                <a class="dropdown-item" href="index.php?action=objectif">Objectifs</a>
                 <a class="dropdown-item" href="index.php?action=valeur">Valeurs</a>
               </div>
             </li>
@@ -75,7 +75,7 @@
         <div class="row text-center text-xs-center text-sm-left text-md-left">
           <div class="col-xs-12 col-sm-3 col-md-4">
             <h5>Nigerielles</h5>
-            <p style="color:white">Association des femmes nigeriennes entrepreneures et porteuses de projet dans la transformation des produits agricoles.</p>
+            <p style="color:white">Association des femmes nigeriennes entrepreneures et porteuses de projet pour le développement économique du Niger.</p>
           </div>
           <div class="col-xs-12 col-sm-3 col-md-4">
             <h5>Adresse</h5>

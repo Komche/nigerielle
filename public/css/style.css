@@ -466,6 +466,7 @@ figure img {
     position: absolute;
     border-radius: 50%;
     top: calc(50% - 20px);
+    padding-bottom: 30px;
 }
 
 .MultiCarousel .leftLst {
@@ -1469,21 +1470,16 @@ h5.title {
     margin-bottom: 20px;
 }
 
-.desc, .desc>ol {
+.desc, ol.list {
     width: 100%;
     font-family: 'Lato', sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: normal;
     word-wrap: break-word;
 }
 
 ol.list {
     list-style-type: upper-roman;
-    width: 100%;
-    font-family: 'Lato', sans-serif;
-    font-size: 25px;
-    font-weight: normal;
-    word-wrap: break-word;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,900);

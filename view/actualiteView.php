@@ -39,7 +39,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, <a href="#">Lire plus..</a> </p>
                                         </div>
                                     </div>
                                 </div>
