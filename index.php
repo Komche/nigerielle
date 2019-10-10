@@ -1,5 +1,5 @@
-<?php
-session_start();
+<?php session_start();
+include_once('controller/sendmail.php');
 unset($_SESSION['activite']);
 if (isset($_GET['action'])) {
     extract($_GET);
@@ -45,6 +45,12 @@ if (isset($_GET['action'])) {
         }
         require('view/activiteView.php');
     } elseif ($action == "contact") {
+
+        if (!empty($_POST['nom']) && !empty($_POST['prenom']) && !empty($_POST['email']) 
+        && !empty($_POST['telephone']) && !empty($_POST['objet']) && !empty($_POST['message'])) {
+            sendMessage($_POST['nom'], $_POST['prenom'], 
+            $_POST['telephone'], $_POST['email'], $_POST['objet'], $_POST['message']);
+        }
         require('view/contactView.php');
     } elseif ($action == "galerie") {
 

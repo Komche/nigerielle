@@ -13,26 +13,26 @@ ob_start();
             </div>
             <div class="row text-center">
                   <div class="col-md-8">
-                     <form action="#" class="contact-form">
+                     <form method="post" action="" class="contact-form">
                         <div class="row">
                            <div class="col-xl-6">
-                              <input type="text" placeholder="Nom">
+                              <input name="nom" type="text" placeholder="Nom">
                            </div>
                            <div class="col-xl-6">
-                              <input type="text" placeholder="Prenom">
+                              <input name="prenom" type="text" placeholder="Prenom">
                            </div>
                            <div class="col-xl-6">
-                              <input type="text" placeholder="email">
+                              <input name="email" type="text" placeholder="email">
                            </div>
 
                            <div class="col-xl-6">
-                              <input type="text" placeholder="telephone">
+                              <input name="telephone" type="text" placeholder="telephone">
                            </div>
                            <div class="col-xl-6">
-                              <input type="text" placeholder="Objet">
+                              <input name="objet" type="text" placeholder="Objet">
                            </div>
                            <div class="col-xl-12">
-                              <textarea placeholder="message" cols="30" rows="10"></textarea>
+                              <textarea name="message" placeholder="message" cols="30" rows="10"></textarea>
                               <input type="submit" value="Envoyer message">
                            </div>
                         </div>
@@ -52,7 +52,7 @@ ob_start();
                      <div class="single-contact">
                         <i class="fa fa-envelope"></i>
                         <h5>Email</h5>
-                        <a href="mailto:contact.nigerielles.ne">contact.nigerielles.ne </a>
+                        <a href="mailto:contact@nigerielles.ne">contact@nigerielles.ne </a>
                      </div>
                   </div>
                   </div>
