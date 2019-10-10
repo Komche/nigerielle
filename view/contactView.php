@@ -16,23 +16,46 @@ ob_start();
                      <form method="post" action="" class="contact-form">
                         <div class="row">
                            <div class="col-xl-6">
-                              <input name="nom" type="text" placeholder="Nom">
+                              <input style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              height: 30px; 
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="nom" type="text" placeholder="Nom">
                            </div>
                            <div class="col-xl-6">
-                              <input name="prenom" type="text" placeholder="Prenom">
+                              <input style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              height: 30px; 
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="prenom" type="text" placeholder="Prenom">
                            </div>
                            <div class="col-xl-6">
-                              <input name="email" type="text" placeholder="email">
+                              <input style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              height: 30px; 
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="email" type="text" placeholder="email">
                            </div>
 
                            <div class="col-xl-6">
-                              <input name="telephone" type="text" placeholder="telephone">
+                              <input style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              height: 30px; 
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="telephone" type="text" placeholder="telephone">
                            </div>
                            <div class="col-xl-6">
-                              <input name="objet" type="text" placeholder="Objet">
+                              <input style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              height: 30px; 
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="objet" type="text" placeholder="Objet">
                            </div>
                            <div class="col-xl-12">
-                              <textarea name="message" placeholder="message" cols="30" rows="10"></textarea>
+                              <textarea style="background-color:white; 
+              border: solid 1px #6E6E6E;
+              font-size:18px; 
+              vertical-align:9px;color:#000" name="message" placeholder="message" cols="30" rows="10"></textarea>
                               <input type="submit" value="Envoyer message">
                            </div>
                         </div>
