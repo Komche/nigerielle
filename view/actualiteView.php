@@ -39,7 +39,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, <a href="#">Lire plus..</a> </p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet<a href="#"> Lire plus..</a> </p>
                                         </div>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. <a href="#"> Lire plus..</a> </p>
                                         </div>
                                         <!--Read More Button-->
                                     </div>
@@ -89,7 +89,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet<a href="#"> Lire plus..</a> </p>
                                         </div>
 
                                         <!--Read More Button-->
@@ -135,7 +135,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing.<a href="#"> Lire plus..</a> </p>
                                         </div>
                                     </div>
                                 </div>
@@ -159,7 +159,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing.<a href="#"> Lire plus..</a> </p>
                                         </div>
                                         <!--Read More Button-->
                                     </div>
@@ -185,7 +185,7 @@ ob_start();
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
-                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
+                                            <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing.<a href="#"> Lire plus..</a></p>
                                         </div>
 
                                         <!--Read More Button-->

@@ -52,7 +52,7 @@ ob_start();
                      <div class="single-contact">
                         <i class="fa fa-envelope"></i>
                         <h5>Email</h5>
-                        <p>contact.nigerielles.ne</p>
+                        <a href="mailto:contact.nigerielles.ne">contact.nigerielles.ne </a>
                      </div>
                   </div>
                   </div>
