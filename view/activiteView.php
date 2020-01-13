@@ -1,10 +1,7 @@
 <?php
 $title = "Activités";
-
 ob_start();
 if (!empty($_SESSION['activite'])) {
-
-
     ?>
     <div style="margin-top: 100px" class="container">
         <div class="banner" style="width:100%;">
@@ -12,7 +9,6 @@ if (!empty($_SESSION['activite'])) {
             <div class="banner-title">
                 <h1><?php echo ($_SESSION['activités']['titre']); ?></h1>
             </div>
-
         </div>
     </div>
     <div class="container">
@@ -32,8 +28,6 @@ if (!empty($_SESSION['activite'])) {
     </div>
 <?php
 } else {
-
-
     ?>
     <div class="container">
         <h3 class="pb-3 mb-4 text-center border-bottom">

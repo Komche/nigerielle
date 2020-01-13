@@ -68,7 +68,6 @@
                                     VI. Développer des partenariats sur le plan national et international avec différentes associations, entreprises et institutions portant sur des projets et actions qui sont susceptibles de contribuer au développement des femmes entrepreneures et de leurs entreprises.  
                                 </font></font></p>
                             </blockquote>
-                            
                                 <div class="media-body">
                                 <blockquote>
                                  <h4 class="media-heading">1.4 Nos valeurs: </h4>

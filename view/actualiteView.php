@@ -9,7 +9,7 @@ ob_start();
                </div>
     <div class="row blog">
         <div class="col-md-12">
-            <h2 class="text-center"></h2>
+         <h2 class="text-center"></h2>
             <div id="blogCarousel" class="carousel slide container-blog" data-ride="carousel">
                 <!--  <ol class="carousel-indicators">
                   <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
@@ -23,7 +23,6 @@ ob_start();
                                 <div class="item-box-blog">
                                     <div class="item-box-blog-image">
                                         <!--Date-->
-
                                         <!--Image-->
                                         <figure><img alt="" src="public/img/slide7.JPG"></figure>
                                     </div>
@@ -98,8 +97,6 @@ ob_start();
                             </div>
                         </div>
                         <!--.row-->
-                        
-
                     </div>
                 </div>
             </div>
@@ -119,7 +116,6 @@ ob_start();
                                 <div class="item-box-blog">
                                     <div class="item-box-blog-image">
                                         <!--Date-->
-
                                         <!--Image-->
                                         <figure><img alt="" src="public/img/slide1.JPG"></figure>
                                     </div>
@@ -187,7 +183,6 @@ ob_start();
                                         <div class="item-box-blog-text">
                                             <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing.<a href="#"> Lire plus..</a></p>
                                         </div>
-
                                         <!--Read More Button-->
                                     </div>
                                 </div>

@@ -62,7 +62,6 @@ ob_start();
         </div>
     </div>
 </div>
-
 </div>
 </div>
 <div style="margin-bottom: 30px" class="container arriere">
@@ -95,7 +94,6 @@ ob_start();
                                         </div>
                                         <!--Data-->
                                         <div class="item-box-blog-data" style="padding: px 15px;">
-
                                         </div>
                                         <!--Text-->
                                         <div class="item-box-blog-text">
@@ -108,7 +106,6 @@ ob_start();
                                 <div class="item-box-blog">
                                     <div class="item-box-blog-image">
                                         <!--Date-->
-
                                         <!--Image-->
                                         <figure> <img alt="" src="public/img/imag.jpg"> </figure>
                                     </div>

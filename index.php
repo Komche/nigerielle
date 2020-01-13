@@ -7,7 +7,6 @@ if (isset($_GET['action'])) {
         require('view/presentationView.php');
         require_once('view/presentationView.php');
     } elseif ($action == 'activite') {
-
         if (isset($_GET['activite'])) {
             extract($_GET);
             if ($activite == 'training') {
@@ -69,3 +68,4 @@ if (isset($_GET['action'])) {
 }else {
     require_once('view/homeView.php');
 }
+

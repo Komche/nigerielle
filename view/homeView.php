@@ -144,7 +144,6 @@ ob_start();
                                         <div class="item-box-blog-text">
                                             <p>Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing. Lorem ipsum dolor.</p>
                                         </div>
-
                                         <!--Read More Button-->
                                     </div>
                                 </div>
@@ -311,8 +310,7 @@ ob_start();
                                     <img class="img-gallery" src="public/img/n14.jpg" width="90px" height="60px">
                                 </a>
                             </div>
-                        </div>
-                        
+                        </div> 
                     </div>
                 </div>
             </section>

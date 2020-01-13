@@ -16,7 +16,7 @@ ob_start();
                      <form method="post" action="" class="contact-form">
                         <div class="row">
                            <div class="col-xl-6">
-                              <input style="background-color:white; 
+                             <input style="background-color:white; 
               border: solid 1px #6E6E6E;
               height: 30px; 
               font-size:18px; 
@@ -36,7 +36,6 @@ ob_start();
               font-size:18px; 
               vertical-align:9px;color:#000" name="email" type="text" placeholder="email">
                            </div>
-
                            <div class="col-xl-6">
                               <input style="background-color:white; 
               border: solid 1px #6E6E6E;

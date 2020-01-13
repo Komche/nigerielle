@@ -3,11 +3,9 @@ html, body {
     padding: 0;
     width: 100%;
 }
-
 header {
     width: 100%;
 }
-
 .content {
     width: 94%;
     margin: 4em auto;
@@ -318,7 +316,6 @@ figure img {
     width: 100%;
     height: auto;
 }
-
 .item-box-blog-date {
     position: absolute;
     padding: 4px 20px;
@@ -326,14 +323,12 @@ figure img {
     right: 8px;
     background-color: #41cb52;
 }
-
 .item-box-blog-date span {
     color: #fff;
     display: block;
     text-align: center;
     line-height: 1.2;
 }
-
 .item-box-blog-date span.mon {
     font-size: 18px;
 }
@@ -484,17 +479,14 @@ body {
 .gal-container {
     padding: 12px;
 }
-
 .gal-item {
     overflow: hidden;
     padding: 3px;
 }
-
 .gal-item .box {
     height: 350px;
     overflow: hidden;
 }
-
 .box img {
     height: 110%;
     width: 110%;
@@ -623,7 +615,6 @@ body {
     width: 80%;
     max-width: 700px;
 }
-
 #caption {
     margin: auto;
     display: block;
@@ -634,7 +625,6 @@ body {
     padding: 10px 0;
     height: 150px;
 }
-
 .modal-content, #caption {
     animation-name: zoom;
     animation-duration: 0.6s;
@@ -754,11 +744,9 @@ section .section-title {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
-
 #footer ul.social li {
     padding: 3px 0;
 }
-
 #footer ul.social li a i {
     margin-right: 5px;
     font-size: 25px;
